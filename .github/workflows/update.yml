@@ -1,0 +1,21 @@
+name: Update Feed
+on:
+  schedule:
+    - cron: '0 */3 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python update_feed.py
+      - run: |
+          git config user.name "feed-bot"
+          git config user.email "bot@example.com"
+          git add feed.xml
+          git commit -m "Update feed" || echo "no changes"
+          git push
