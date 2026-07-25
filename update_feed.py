@@ -1,4 +1,5 @@
 import urllib.request
+import urllib.parse
 import re
 import json
 from xml.sax.saxutils import escape
@@ -9,7 +10,10 @@ CATEGORIES = ["/%D0%B1%D0%B0%D0%B4", "/%D0%BA%D1%80%D0%B0%D1%81%D0%BE%D1%82%D0%B
 BLACKLIST = {"/бад", "/красота", "/чистота", "/приборы", "/cart", "/dostavka", "/privacy", "/register", "/thankyou", "/item"}
 
 def fetch(url):
-    req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+    req = urllib.request.Request(url, headers={
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+        "Accept-Language": "ru-RU,ru;q=0.9"
+    })
     return urllib.request.urlopen(req, timeout=20).read().decode("utf-8", errors="ignore")
 
 def is_product_link(path):
@@ -18,17 +22,25 @@ def is_product_link(path):
         return False
     return True
 
-import urllib.parse
 product_urls = set()
 for cat in CATEGORIES:
+    url = BASE + cat
     try:
-        html = fetch(BASE + cat)
-        for href in re.findall(r'href="([^"]+)"', html):
+        html = fetch(url)
+        print(f"Категория {url}: получено {len(html)} символов HTML")
+        hrefs = re.findall(r'href="([^"]+)"', html)
+        print(f"  найдено href-ссылок всего: {len(hrefs)}")
+        found_here = 0
+        for href in hrefs:
             path = re.sub(r'^https?://[^/]+', '', href)
             if path.startswith("/") and is_product_link(path):
                 product_urls.add(BASE + path)
-    except Exception:
-        pass
+                found_here += 1
+        print(f"  из них товарных: {found_here}")
+    except Exception as e:
+        print(f"ОШИБКА при загрузке категории {url}: {repr(e)}")
+
+print(f"\nИтого уникальных товарных ссылок: {len(product_urls)}\n")
 
 offers = []
 for url in product_urls:
@@ -36,6 +48,7 @@ for url in product_urls:
         html = fetch(url)
         m = re.search(r'<script type="application/ld\+json">([\s\S]*?)</script>', html)
         if not m:
+            print(f"Нет JSON-LD на странице: {url}")
             continue
         data = json.loads(m.group(1))
         if data.get("@type") != "Product":
@@ -48,8 +61,8 @@ for url in product_urls:
             "picture": data.get("image", ""),
             "description": (data.get("description", "") or "")[:3000],
         })
-    except Exception:
-        pass
+    except Exception as e:
+        print(f"ОШИБКА на товаре {url}: {repr(e)}")
 
 parts = ['<?xml version="1.0" encoding="UTF-8"?>',
          '<yml_catalog date="2026-01-01 00:00">', '<shop>',
@@ -74,4 +87,4 @@ parts.append('</offers></shop></yml_catalog>')
 with open("feed.xml", "w", encoding="utf-8") as f:
     f.write("\n".join(parts))
 
-print(f"Готово: {len(offers)} товаров")
+print(f"\nГотово: {len(offers)} товаров записано в feed.xml")
