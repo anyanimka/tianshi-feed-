@@ -8,16 +8,14 @@ BASE = "https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai"
 CATEGORIES = ["/%D0%B1%D0%B0%D0%B4", "/%D0%BA%D1%80%D0%B0%D1%81%D0%BE%D1%82%D0%B0",
               "/%D1%87%D0%B8%D1%81%D1%82%D0%BE%D1%82%D0%B0", "/%D0%BF%D1%80%D0%B8%D0%B1%D0%BE%D1%80%D1%8B"]
 BLACKLIST = {"/бад", "/красота", "/чистота", "/приборы", "/cart", "/dostavka", "/privacy", "/register", "/thankyou", "/item"}
-IMAGE_EXT = (".jpg", ".jpeg", ".png", ".webp", ".gif", ".svg")
-
-def safe_url(url):
-    # Кодируем путь (кириллицу) в проценты, чтобы urllib смог отправить запрос
-    parsed = urllib.parse.urlsplit(url)
-    path = urllib.parse.quote(parsed.path, safe="/%")
-    return urllib.parse.urlunsplit((parsed.scheme, parsed.netloc, path, parsed.query, parsed.fragment))
+BAD_EXTENSIONS = (".jpg", ".jpeg", ".png", ".gif", ".webp", ".svg", ".pdf", ".css", ".js")
 
 def fetch(url):
-    req = urllib.request.Request(safe_url(url), headers={
+    # кодируем путь и параметры, если там прямая кириллица
+    parts = urllib.parse.urlsplit(url)
+    safe_path = urllib.parse.quote(parts.path, safe="/%")
+    safe_url = urllib.parse.urlunsplit((parts.scheme, parts.netloc, safe_path, parts.query, parts.fragment))
+    req = urllib.request.Request(safe_url, headers={
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
         "Accept-Language": "ru-RU,ru;q=0.9"
     })
@@ -25,11 +23,13 @@ def fetch(url):
 
 def is_product_link(path):
     decoded = urllib.parse.unquote(path).lower()
-    if decoded in BLACKLIST or "?" in decoded or decoded in ("", "/"):
+    if decoded in BLACKLIST:
         return False
-    if "disk2" in decoded or decoded.endswith(IMAGE_EXT):
+    if "?" in decoded or decoded in ("", "/"):
         return False
-    if "/" in decoded[1:]:  # вложенные пути типа /disk2/xx/yy — не товар
+    if decoded.endswith(BAD_EXTENSIONS):
+        return False
+    if "/disk2/" in decoded or "disk.creatium" in decoded:  # ссылки на файлы/картинки
         return False
     return True
 
@@ -43,6 +43,9 @@ for cat in CATEGORIES:
         print(f"  найдено href-ссылок всего: {len(hrefs)}")
         found_here = 0
         for href in hrefs:
+            # пропускаем ссылки на другие домены (соцсети и т.п.)
+            if href.startswith("http") and not href.startswith(BASE):
+                continue
             path = re.sub(r'^https?://[^/]+', '', href)
             if path.startswith("/") and is_product_link(path):
                 product_urls.add(BASE + path)
