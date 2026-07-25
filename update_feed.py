@@ -5,13 +5,13 @@ import json
 from xml.sax.saxutils import escape
 
 BASE = "https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai"
+BASE_HOST = "xn----8sbalvbf1agi9b8d7b0b.xn--p1ai"
 CATEGORIES = ["/%D0%B1%D0%B0%D0%B4", "/%D0%BA%D1%80%D0%B0%D1%81%D0%BE%D1%82%D0%B0",
               "/%D1%87%D0%B8%D1%81%D1%82%D0%BE%D1%82%D0%B0", "/%D0%BF%D1%80%D0%B8%D0%B1%D0%BE%D1%80%D1%8B"]
 BLACKLIST = {"/бад", "/красота", "/чистота", "/приборы", "/cart", "/dostavka", "/privacy", "/register", "/thankyou", "/item"}
 BAD_EXTENSIONS = (".jpg", ".jpeg", ".png", ".gif", ".webp", ".svg", ".pdf", ".css", ".js")
 
 def fetch(url):
-    # кодируем путь и параметры, если там прямая кириллица
     parts = urllib.parse.urlsplit(url)
     safe_path = urllib.parse.quote(parts.path, safe="/%")
     safe_url = urllib.parse.urlunsplit((parts.scheme, parts.netloc, safe_path, parts.query, parts.fragment))
@@ -21,6 +21,17 @@ def fetch(url):
     })
     return urllib.request.urlopen(req, timeout=20).read().decode("utf-8", errors="ignore")
 
+def is_internal(href):
+    parts = urllib.parse.urlsplit(href)
+    if not parts.netloc:
+        return True  # относительная ссылка — точно наш сайт
+    host = parts.netloc.split(":")[0]
+    try:
+        host_ascii = host.encode("idna").decode("ascii").lower()
+    except Exception:
+        host_ascii = host.lower()
+    return host_ascii == BASE_HOST.lower()
+
 def is_product_link(path):
     decoded = urllib.parse.unquote(path).lower()
     if decoded in BLACKLIST:
@@ -29,7 +40,7 @@ def is_product_link(path):
         return False
     if decoded.endswith(BAD_EXTENSIONS):
         return False
-    if "/disk2/" in decoded or "disk.creatium" in decoded:  # ссылки на файлы/картинки
+    if "/disk2/" in decoded or "disk.creatium" in decoded:
         return False
     return True
 
@@ -43,10 +54,9 @@ for cat in CATEGORIES:
         print(f"  найдено href-ссылок всего: {len(hrefs)}")
         found_here = 0
         for href in hrefs:
-            # пропускаем ссылки на другие домены (соцсети и т.п.)
-            if href.startswith("http") and not href.startswith(BASE):
+            if not is_internal(href):
                 continue
-            path = re.sub(r'^https?://[^/]+', '', href)
+            path = urllib.parse.urlsplit(href).path
             if path.startswith("/") and is_product_link(path):
                 product_urls.add(BASE + path)
                 found_here += 1
