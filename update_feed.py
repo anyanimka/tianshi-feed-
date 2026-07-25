@@ -8,9 +8,16 @@ BASE = "https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai"
 CATEGORIES = ["/%D0%B1%D0%B0%D0%B4", "/%D0%BA%D1%80%D0%B0%D1%81%D0%BE%D1%82%D0%B0",
               "/%D1%87%D0%B8%D1%81%D1%82%D0%BE%D1%82%D0%B0", "/%D0%BF%D1%80%D0%B8%D0%B1%D0%BE%D1%80%D1%8B"]
 BLACKLIST = {"/бад", "/красота", "/чистота", "/приборы", "/cart", "/dostavka", "/privacy", "/register", "/thankyou", "/item"}
+IMAGE_EXT = (".jpg", ".jpeg", ".png", ".webp", ".gif", ".svg")
+
+def safe_url(url):
+    # Кодируем путь (кириллицу) в проценты, чтобы urllib смог отправить запрос
+    parsed = urllib.parse.urlsplit(url)
+    path = urllib.parse.quote(parsed.path, safe="/%")
+    return urllib.parse.urlunsplit((parsed.scheme, parsed.netloc, path, parsed.query, parsed.fragment))
 
 def fetch(url):
-    req = urllib.request.Request(url, headers={
+    req = urllib.request.Request(safe_url(url), headers={
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
         "Accept-Language": "ru-RU,ru;q=0.9"
     })
@@ -19,6 +26,10 @@ def fetch(url):
 def is_product_link(path):
     decoded = urllib.parse.unquote(path).lower()
     if decoded in BLACKLIST or "?" in decoded or decoded in ("", "/"):
+        return False
+    if "disk2" in decoded or decoded.endswith(IMAGE_EXT):
+        return False
+    if "/" in decoded[1:]:  # вложенные пути типа /disk2/xx/yy — не товар
         return False
     return True
 
