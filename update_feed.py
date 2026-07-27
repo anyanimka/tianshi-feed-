@@ -45,10 +45,8 @@ def is_product_link(path):
         return False
     return True
 
-def get_availability(data):
-    avail = (data.get("offers") or {}).get("availability", "")
-    # schema.org: https://schema.org/InStock, OutOfStock, PreOrder и т.д.
-    if "OutOfStock" in avail:
+def get_availability(html):
+    if re.search(r'[Нн]ет\s+в\s+наличии', html):
         return "false"
     return "true"
 
@@ -86,7 +84,7 @@ for url in product_urls:
             "name": data.get("name", ""),
             "picture": data.get("image", ""),
             "description": (data.get("description", "") or "")[:3000],
-            "available": get_availability(data),
+            "available": get_availability(html),
         })
     except Exception as e:
         print(f"ОШИБКА на товаре {url}: {repr(e)}")
