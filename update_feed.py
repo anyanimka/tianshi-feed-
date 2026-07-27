@@ -2,6 +2,7 @@ import urllib.request
 import urllib.parse
 import re
 import json
+from datetime import datetime, timezone
 from xml.sax.saxutils import escape
 
 BASE = "https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai"
@@ -24,7 +25,7 @@ def fetch(url):
 def is_internal(href):
     parts = urllib.parse.urlsplit(href)
     if not parts.netloc:
-        return True  # относительная ссылка — точно наш сайт
+        return True
     host = parts.netloc.split(":")[0]
     try:
         host_ascii = host.encode("idna").decode("ascii").lower()
@@ -44,27 +45,29 @@ def is_product_link(path):
         return False
     return True
 
+def get_availability(data):
+    avail = (data.get("offers") or {}).get("availability", "")
+    # schema.org: https://schema.org/InStock, OutOfStock, PreOrder и т.д.
+    if "OutOfStock" in avail:
+        return "false"
+    return "true"
+
 product_urls = set()
 for cat in CATEGORIES:
     url = BASE + cat
     try:
         html = fetch(url)
-        print(f"Категория {url}: получено {len(html)} символов HTML")
         hrefs = re.findall(r'href="([^"]+)"', html)
-        print(f"  найдено href-ссылок всего: {len(hrefs)}")
-        found_here = 0
         for href in hrefs:
             if not is_internal(href):
                 continue
             path = urllib.parse.urlsplit(href).path
             if path.startswith("/") and is_product_link(path):
                 product_urls.add(BASE + path)
-                found_here += 1
-        print(f"  из них товарных: {found_here}")
     except Exception as e:
         print(f"ОШИБКА при загрузке категории {url}: {repr(e)}")
 
-print(f"\nИтого уникальных товарных ссылок: {len(product_urls)}\n")
+print(f"Итого уникальных товарных ссылок: {len(product_urls)}")
 
 offers = []
 for url in product_urls:
@@ -72,7 +75,6 @@ for url in product_urls:
         html = fetch(url)
         m = re.search(r'<script type="application/ld\+json">([\s\S]*?)</script>', html)
         if not m:
-            print(f"Нет JSON-LD на странице: {url}")
             continue
         data = json.loads(m.group(1))
         if data.get("@type") != "Product":
@@ -84,26 +86,32 @@ for url in product_urls:
             "name": data.get("name", ""),
             "picture": data.get("image", ""),
             "description": (data.get("description", "") or "")[:3000],
+            "available": get_availability(data),
         })
     except Exception as e:
         print(f"ОШИБКА на товаре {url}: {repr(e)}")
 
-parts = ['<?xml version="1.0" encoding="UTF-8"?>',
-         '<yml_catalog date="2026-01-01 00:00">', '<shop>',
+def esc(s):
+    return escape(str(s))
+
+now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M")
+
+parts = [f'<?xml version="1.0" encoding="UTF-8"?>',
+         f'<yml_catalog date="{now}">', '<shop>',
          '<name>Тяньши</name>', '<company>Тяньши</company>',
          '<url>https://тяньши-магазин.рф/</url>',
          '<currencies><currency id="RUB" rate="1"/></currencies>',
          '<categories><category id="1">Тяньши</category></categories>', '<offers>']
 
 for o in offers:
-    parts.append(f'''<offer id="{escape(str(o['id']))}" available="true">
-<url>{escape(o['url'])}</url>
-<price>{escape(str(o['price']))}</price>
+    parts.append(f'''<offer id="{esc(o['id'])}" available="{o['available']}">
+<url>{esc(o['url'])}</url>
+<price>{esc(o['price'])}</price>
 <currencyId>RUB</currencyId>
 <categoryId>1</categoryId>
-<picture>{escape(o['picture'])}</picture>
-<name>{escape(o['name'])}</name>
-<description>{escape(o['description'])}</description>
+<picture>{esc(o['picture'])}</picture>
+<name>{esc(o['name'])}</name>
+<description>{esc(o['description'])}</description>
 </offer>''')
 
 parts.append('</offers></shop></yml_catalog>')
@@ -111,4 +119,4 @@ parts.append('</offers></shop></yml_catalog>')
 with open("feed.xml", "w", encoding="utf-8") as f:
     f.write("\n".join(parts))
 
-print(f"\nГотово: {len(offers)} товаров записано в feed.xml")
+print(f"Готово: {len(offers)} товаров, дата фида: {now}")
