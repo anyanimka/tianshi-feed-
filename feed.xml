@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-07-29 16:54">
+<yml_catalog date="2026-07-29 21:17">
 <shop>
 <name>Тяньши</name>
 <company>Тяньши</company>
@@ -7,34 +7,83 @@
 <currencies><currency id="RUB" rate="1"/></currencies>
 <categories><category id="1">Тяньши</category></categories>
 <offers>
-<offer id="одеяло-тяньши" available="false">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/одеяло-тяньши</url>
-<price>24476</price>
+<offer id="многофункционалка" available="true">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/многофункционалка</url>
+<price>588</price>
 <currencyId>RUB</currencyId>
 <categoryId>1</categoryId>
-<picture>https://img1.creatium.ru/disk2/db/78/f4/7ae64f48569fae5c8705cbe7625a2c0add/2055178427083685889_jpg_template_2_shape_2_w_800_h_800_q_80_.webp</picture>
-<name>Одеяло "Анион"</name>
-<description>– поддерживает оптимальный микроклимат во время сна;
+<picture>https://img1.creatium.ru/disk2/ea/43/e2/97e1a64975933ca1135842caa130ae3c3e/6984229914.jpg</picture>
+<name>Многофункциональное моющее средство</name>
+<description>• ИННОВАЦИОННАЯ ФОРМУЛА ОЧИСТКИ В ПРЕПАРАТЕ, ПРЕДНАЗНАЧЕННОМ ДЛЯ ЭФФЕКТИВНОГО УДАЛЕНИЯ БЫТОВЫХ ЗАГРЯЗНЕНИЙ НА ПОЛАХ И СТЕНАХ, КАФЕЛЕ И ЗЕРКАЛАХ, ДЕРЕВЯННЫХ ПОВЕРХНОСТЯХ И ТКАНЕВОЙ ОБИВКЕ МЕБЕЛИ. • ОТЛИЧНО ОЧИЩАЕТ ОТ ГРЯЗИ, ПЯТЕН, ЖИРА И НАЛЕТА, ПЫЛИ И МИКРОБОВ. • 1 л.</description>
+</offer>
+<offer id="белый-браслет-тяньши" available="true">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/белый-браслет-тяньши</url>
+<price>4399</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://img1.creatium.ru/disk2/c1/0c/3b/3328a27b87c7fedbeccdc38039db87bb6c/orig.jpg</picture>
+<name>Браслет White титановый магнитный</name>
+<description>Стильный аксессуар и забота о здоровье. Нейтрализует негативное влияние электроприборов и гаджетов на биополе организма. Способствует восстановлению работоспособности и укреплению защитных сил. Помогает при головных болях, скачках давления и мышечных спазмах.</description>
+</offer>
+<offer id="омега11" available="true">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/омега11</url>
+<price>2560</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://img1.creatium.ru/disk2/c8/cf/9a/e3f64a05932151aded25165eab9c7da406/s_l1600.jpg</picture>
+<name>Omega-11 / Омега-3</name>
+<description>● Максимум здоровья из глубин Атлантики! ● Инновационная формула на основе уникального концентрата CET03™, добываемого из пелагической рыбы (норвежской сельди) в чистых водах Северной Атлантики. ● Действует как катализатор, усиливая пользу классических Омега-3. ● Сбалансированный комплекс для здоровья сердца, мозга и зрения – TIENS ОМЕГА-11 (CET03).</description>
+</offer>
+<offer id="молочко-тяньши" available="true">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/молочко-тяньши</url>
+<price>1245</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://img1.creatium.ru/disk2/d6/07/30/5f7cb87e2c2c34c8b995c032e97ca62c7b/orig.jpg</picture>
+<name>Молочко для умывания</name>
+<description>Чистота и нежность каждый день!
 
-– эффективно сохраняет тепло в течение длительного времени;</description>
+Нежная воздушная пена бережно удалит макияж. С очищающим молочком CELLES TIANE ваша кожа упругая, эластичная и гладкая, а поры эффективно очищены.</description>
 </offer>
-<offer id="целлюлоза-тяньши" available="true">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/целлюлоза-тяньши</url>
-<price>1357</price>
+<offer id="лосьон-тяньши" available="false">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/лосьон-тяньши</url>
+<price>2499</price>
 <currencyId>RUB</currencyId>
 <categoryId>1</categoryId>
-<picture>https://img1.creatium.ru/disk2/f5/c3/da/90b1d5ec5009121a6352e9cf562309f65d/7236003626.jpg</picture>
-<name>Таблетки с целлюлозой</name>
-<description>● ОПТИМАЛЬНАЯ КОМБИНАЦИЯ ПИЩЕВЫХ ВОЛОКОН РАСТИТЕЛЬНОГО ПРОИСХОЖДЕНИЯ ДВУХ ТИПОВ (РАСТВОРИМЫХ И НЕРАСТВОРИМЫХ) ДЛЯ УЛУЧШЕНИЯ ФУНКЦИЙ КИШЕЧНИКА ● УДОБНАЯ ФОРМА ЖЕВАТЕЛЬНЫХ ТАБЛЕТОК ПОЗВОЛИТ БЫСТРО И ПРОСТО НАЛАДИТЬ ПИЩЕВАРЕНИЕ, УКРЕПИТЬ ИММУНИТЕТ, КОНТРОЛИРОВАТЬ ВЕС И ПОВЫСИТЬ ЖИЗНЕННЫЙ ТОНУС ОРГАНИЗМА.</description>
+<picture>https://img1.creatium.ru/disk2/7d/6e/6b/7db0d365da8edef6841d0b05523588845c/orig.png</picture>
+<name>Лосьон для лица</name>
+<description>Увлажненная и соблазнительная кожа!
+
+Раскройте всю чувственность тонкого аромата роз и насладитесь волшебной эстетикой, окунувшись в приятную, нежную, мягкую магию увлажняющего лосьона CELLESTIANE.</description>
 </offer>
-<offer id="омега-3-тяньши" available="true">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/омега-3-тяньши</url>
-<price>1649</price>
+<offer id="эмульсия-тяньши" available="false">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/эмульсия-тяньши</url>
+<price>2426</price>
 <currencyId>RUB</currencyId>
 <categoryId>1</categoryId>
-<picture>https://img1.creatium.ru/disk2/e6/76/6c/7336e6a16b1925bff6f1e48946ec010a12/7034766884.jpg</picture>
-<name>Омега-3 30%</name>
-<description>• ИСТОЧНИК ЦЕННЫХ ОМЕГА-3 НЕНАСЫЩЕННЫХ ЖИРНЫХ КИСЛОТ, УСИЛЕННЫЙ НАТУРАЛЬНЫМИ АНТИОКСИДАНТАМИ, ДЛЯ ПОДДЕРЖАНИЯ ЗДОРОВЬЯ ЦЕНТРАЛЬНОЙ НЕРВНОЙ СИСТЕМЫ • ПОМОГАЕТ МОЗГУ СПРАВЛЯТЬСЯ С ПОСЛЕДСТВИЯМИ СТРЕССА И ПЕРЕУТОМЛЕНИЕМ. • Упаковка: 1400 мг х 50 капсул</description>
+<picture>https://img1.creatium.ru/disk2/22/45/50/a98bf8446c30162b2bbaa49db3657d1848/orig.jpg</picture>
+<name>Эмульсия для лица</name>
+<description>• Глубоко увлажняет
+     • Защищает кожу в течение всего дня
+     • Делает ее гладкой и приятной на ощупь</description>
+</offer>
+<offer id="кровь-и-железо" available="true">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/кровь-и-железо</url>
+<price>3575</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://img1.creatium.ru/disk2/eb/01/7a/e8aa332a856e09913114d1c769382b3e2e/7473690718.jpg</picture>
+<name>Кровь и Железо "Тяньши"</name>
+<description>Премиальные капсулы для восполнения дефицита железа - эффективное решение для поддержания здоровья и энергии.</description>
+</offer>
+<offer id="витамины-группы-в-тяньши" available="true">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/витамины-группы-в-тяньши</url>
+<price>1154</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://img1.creatium.ru/disk2/2e/c3/4b/4d3d0fd0458fb8b131db4bc43711929840/orig.jpg</picture>
+<name>Витамины группы В</name>
+<description>● КОМПЛЕКС ИЗ СЕМИ НЕЗАМЕНИМЫХ ВИТАМИНОВ ДЛЯ ПОДДЕРЖАНИЯ НОРМАЛЬНОГО ОБМЕНА ВЕЩЕСТВ ● ПОВЫШАЕТ ЭНЕРГИЮ И РАБОТОСПОСОБНОСТЬ, ПОМОГАЕТ ОРГАНИЗМУ СПРАВИТЬСЯ С ИНТЕНСИВНЫМИ НАГРУЗКАМИ, СТРЕССОМ И ЕГО ПОСЛЕДСТВИЯМИ. ● 120 таблеток</description>
 </offer>
 <offer id="ежедневные-прокладки" available="true">
 <url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/ежедневные-прокладки</url>
@@ -48,98 +97,6 @@
 +Оказывают антибактериальный и противовоспалительный эффект
 + Позволяют коже дышать, обогащая клетки кислородом, и обеспечивают комфорт, ощущение чистоты и свежести надолго</description>
 </offer>
-<offer id="фолиевая-тяньши" available="true">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/фолиевая-тяньши</url>
-<price>1319</price>
-<currencyId>RUB</currencyId>
-<categoryId>1</categoryId>
-<picture>https://img1.creatium.ru/disk2/37/17/93/14d22638bedeb7a188c17c0b58d1016807/7455301500.jpg</picture>
-<name>Фолиевая с железом</name>
-<description>● ФОЛИЕВАЯ КИСЛОТА И ЖЕЛЕЗО НЕОБХОДИМЫ ДЛЯ НОРМАЛЬНОЙ ФУНКЦИИ КРОВЕТВОРЕНИЯ И ОБЕСПЕЧЕНИЯ КИСЛОРОДОМ ВСЕХ ОРГАНОВ И ТКАНЕЙ ТЕЛА ЧЕЛОВЕКА ● РЕГУЛЯРНЫЙ ПРИЕМ ФОЛИЕВОЙ КИСЛОТЫ С ЖЕЛЕЗОМ ПОМОГАЕТ ИЗБЕЖАТЬ АНЕМИИ И СВЯЗАННЫХ С НЕЙ УСТАЛОСТИ, СЛАБОСТИ И СНИЖЕНИЯ ЗАЩИТНЫХ СИЛ ОРГАНИЗМА</description>
-</offer>
-<offer id="для-посуды-тяньши" available="true">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/для-посуды-тяньши</url>
-<price>809</price>
-<currencyId>RUB</currencyId>
-<categoryId>1</categoryId>
-<picture>https://img1.creatium.ru/disk2/69/db/96/781d8e15e5f515e75888860a3cfcdd3be1/orig.jpg</picture>
-<name>Средство для мытья посуды</name>
-<description>• СИЯНИЕ ФАРФОРА, БЛЕСК ГРАНЕЙ ХРУСТАЛЬНЫХ ФУЖЕРОВ, ЧИСТОТУ КАСТРЮЛЬ И СКОВОРОДОК ОБЕСПЕЧИТ ИСПОЛЬЗОВАНИЕ В ЕЖЕДНЕВНОЙ ХОЗЯЙСТВЕННОЙ РАБОТЕ НА КУХНЕ КОНЦЕНТРИРОВАННОГО СРЕДСТВА ДЛЯ МЫТЬЯ ПОСУДЫ DICHO РОССИЙСКОГО ПРОИЗВОДСТВА • УТОМИТЕЛЬНЫЙ ПРОЦЕСС СТАНЕТ БЫСТРЫМ И НЕОБРЕМЕНИТЕЛЬНЫМ, ЕСЛИ ОРГАНИЗОВАТЬ ЕГО ГРАМОТНО И ИСПОЛЬЗОВАТЬ ЭКОНОМИЧНОЕ И ЭФФЕКТИВНОЕ СРЕДСТВО • 1 л</description>
-</offer>
-<offer id="прокладки-тяньши" available="false">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/прокладки-тяньши</url>
-<price>1867</price>
-<currencyId>RUB</currencyId>
-<categoryId>1</categoryId>
-<picture>https://img1.creatium.ru/disk2/73/67/33/baf1d3b7be9a83feb622712c706901e5c1/300x300.jpg</picture>
-<name>Набор прокладок "Тяньши"</name>
-<description>Женские гигиенические прокладки Anion-Relax AIRIZ</description>
-</offer>
-<offer id="омега11" available="true">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/омега11</url>
-<price>2560</price>
-<currencyId>RUB</currencyId>
-<categoryId>1</categoryId>
-<picture>https://img1.creatium.ru/disk2/c8/cf/9a/e3f64a05932151aded25165eab9c7da406/s_l1600.jpg</picture>
-<name>Omega-11 / Омега-3</name>
-<description>● Максимум здоровья из глубин Атлантики! ● Инновационная формула на основе уникального концентрата CET03™, добываемого из пелагической рыбы (норвежской сельди) в чистых водах Северной Атлантики. ● Действует как катализатор, усиливая пользу классических Омега-3. ● Сбалансированный комплекс для здоровья сердца, мозга и зрения – TIENS ОМЕГА-11 (CET03).</description>
-</offer>
-<offer id="глюкозамин-тяньши" available="true">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/глюкозамин-тяньши</url>
-<price>1334</price>
-<currencyId>RUB</currencyId>
-<categoryId>1</categoryId>
-<picture>https://img1.creatium.ru/disk2/1f/05/18/bae246f79207ecf089d7769d3cd16fdab8/orig.jpg</picture>
-<name>Глюкозамин TIENS</name>
-<description>Комплексное средство для укрепления, восстановления и защиты суставов и связок. Двигайтесь с удовольствием и без ограничений. 60 капсул по 400 мг</description>
-</offer>
-<offer id="витамины-группы-в-тяньши" available="true">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/витамины-группы-в-тяньши</url>
-<price>1154</price>
-<currencyId>RUB</currencyId>
-<categoryId>1</categoryId>
-<picture>https://img1.creatium.ru/disk2/2e/c3/4b/4d3d0fd0458fb8b131db4bc43711929840/orig.jpg</picture>
-<name>Витамины группы В</name>
-<description>● КОМПЛЕКС ИЗ СЕМИ НЕЗАМЕНИМЫХ ВИТАМИНОВ ДЛЯ ПОДДЕРЖАНИЯ НОРМАЛЬНОГО ОБМЕНА ВЕЩЕСТВ ● ПОВЫШАЕТ ЭНЕРГИЮ И РАБОТОСПОСОБНОСТЬ, ПОМОГАЕТ ОРГАНИЗМУ СПРАВИТЬСЯ С ИНТЕНСИВНЫМИ НАГРУЗКАМИ, СТРЕССОМ И ЕГО ПОСЛЕДСТВИЯМИ. ● 120 таблеток</description>
-</offer>
-<offer id="индол-тяньши" available="false">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/индол-тяньши</url>
-<price>1544</price>
-<currencyId>RUB</currencyId>
-<categoryId>1</categoryId>
-<picture>https://img1.creatium.ru/disk2/42/3a/4c/7217c5ed0dfda0f295033a6dd99da8dccb/img_345642_345642_png_t_1750516881.png</picture>
-<name>Индол-3-карбинол</name>
-<description>● ЗАЩИТА РЕПРОДУКТИВНОЙ СИСТЕМЫ НА КЛЕТОЧНОМ УРОВНЕ ● 60 КАПСУЛ</description>
-</offer>
-<offer id="кордикофе-тяньши" available="true">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/кордикофе-тяньши</url>
-<price>934</price>
-<currencyId>RUB</currencyId>
-<categoryId>1</categoryId>
-<picture>https://img1.creatium.ru/disk2/c3/9b/cd/9075de6104397a9c9db1fdde24dfd8414e/orig.jpg</picture>
-<name>Кордикофе TIENS</name>
-<description>● ПОДАРИТЕ СЕБЕ НЕМНОГО РАДОСТИ! ● СОЗДАННЫЙ ДЛЯ ПОЛУЧЕНИЯ УДОВОЛЬСТВИЯ И ПОЛЬЗЫ ИЗ ОТБОРНЫХ СОРТОВ КОФЕ, НАПИТОК ОБОГАЩЕН РЕДКИМ КОМПОНЕНТОМ - МИЦЕЛИЕМ КОРДИЦЕПСА ДЛЯ АКТИВИЗАЦИИ ЖИЗНЕННЫХ СИЛ ● РЕКОМЕНДОВАН ДЛЯ ПОВЫШЕНИЯ ТОНУСА И РАБОТОСПОСОБНОСТИ ● АКТИВИЗИРУЕТ МЫСЛИТЕЛЬНУЮ ДЕЯТЕЛЬНОСТЬ ● УЛУЧШАЕТ УГЛЕВОДНЫЙ ОБМЕН И КРОВООБРАЩЕНИЕ.</description>
-</offer>
-<offer id="молочко-тяньши" available="true">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/молочко-тяньши</url>
-<price>1245</price>
-<currencyId>RUB</currencyId>
-<categoryId>1</categoryId>
-<picture>https://img1.creatium.ru/disk2/d6/07/30/5f7cb87e2c2c34c8b995c032e97ca62c7b/orig.jpg</picture>
-<name>Молочко для умывания</name>
-<description>Чистота и нежность каждый день!
-
-Нежная воздушная пена бережно удалит макияж. С очищающим молочком CELLES TIANE ваша кожа упругая, эластичная и гладкая, а поры эффективно очищены.</description>
-</offer>
-<offer id="чай-тяньши" available="true">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/чай-тяньши</url>
-<price>855</price>
-<currencyId>RUB</currencyId>
-<categoryId>1</categoryId>
-<picture>https://img1.creatium.ru/e1/e4/89/0a7068ed7c1d750826cc96042cd971ed8a/6017296048.jpg</picture>
-<name>Чай "Тяньши" антилипидный</name>
-<description>● ЦЕЛЕБНЫЙ НАПИТОК НА ОСНОВЕ ЗЕЛЕНОГО ЧАЯ И ТРАВ, ИСПОЛЬЗУЕМЫХ В ТРАДИЦИОННОЙ КИТАЙСКОЙ МЕДИЦИНЕ ● СПОСОБСТВУЕТ ОЧИЩЕНИЮ ОРГАНИЗМА ОТ ТОКСИНОВ, СНИЖЕНИЮ ВЕСА И НОРМАЛИЗАЦИИ ДАВЛЕНИЯ И ЛИПИДНОГО СПЕКТРА КРОВИ.</description>
-</offer>
 <offer id="ночные-прокладки" available="false">
 <url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/ночные-прокладки</url>
 <price>392</price>
@@ -152,170 +109,43 @@
 +Оказывают антибактериальный и противовоспалительный эффект
 + Позволяют коже дышать, обогащая клетки кислородом, и обеспечивают комфорт, ощущение чистоты и свежести надолго</description>
 </offer>
-<offer id="для-стирки-тяньши" available="true">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/для-стирки-тяньши</url>
-<price>600</price>
+<offer id="одеяло-тяньши" available="false">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/одеяло-тяньши</url>
+<price>24476</price>
 <currencyId>RUB</currencyId>
 <categoryId>1</categoryId>
-<picture>https://img1.creatium.ru/disk2/13/83/56/c84344f70aced3355add7dc796a3516b8e/orig.jpg</picture>
-<name>Средство для стирки</name>
-<description>• ПРОДЛИТЬ ЖИЗНЬ ПРЕДМЕТАМ ОДЕЖДЫ, НЕПОСРЕДСТВЕННО КОНТАКТИРУЮЩИМ С КОЖЕЙ И ТРЕБУЮЩИМ ОСОБОГО АККУРАТНОГО ОТНОШЕНИЯ, СОХРАНИТЬ «КОМПЛЕКТ МЕЧТЫ», ТОНКИЕ ТКАНИ, НЕЖНЫЕ КРУЖЕВА И НАСЫЩЕННЫЕ КРАСКИ ПОМОЖЕТ СРЕДСТВО DICHO ДЛЯ РУЧНОЙ СТИРКИ ЦВЕТНОГО И БЕЛОГО БЕЛЬЯ ИЗ ДЕЛИКАТНЫХ ТКАНЕЙ. • 1 Л.</description>
+<picture>https://img1.creatium.ru/disk2/db/78/f4/7ae64f48569fae5c8705cbe7625a2c0add/2055178427083685889_jpg_template_2_shape_2_w_800_h_800_q_80_.webp</picture>
+<name>Одеяло "Анион"</name>
+<description>– поддерживает оптимальный микроклимат во время сна;
+
+– эффективно сохраняет тепло в течение длительного времени;</description>
 </offer>
-<offer id="магний-тяньши" available="true">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/магний-тяньши</url>
-<price>1070</price>
+<offer id="кордикофе-тяньши" available="false">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/кордикофе-тяньши</url>
+<price>934</price>
 <currencyId>RUB</currencyId>
 <categoryId>1</categoryId>
-<picture>https://img1.creatium.ru/disk2/7f/c7/8a/1c932a1a4eeb8b46cda9cf9dc07859f2dd/orig.jpg</picture>
-<name>Магний B6</name>
-<description>● РАСТВОРИМЫЙ МАГНИЙ ДЛЯ ПОДДЕРЖКИ НЕРВНОЙ СИСТЕМЫ ● ПОРОШОК 90 г (30 порций) ● Мерная ложка внутри</description>
+<picture>https://img1.creatium.ru/disk2/c3/9b/cd/9075de6104397a9c9db1fdde24dfd8414e/orig.jpg</picture>
+<name>Кордикофе TIENS</name>
+<description>● ПОДАРИТЕ СЕБЕ НЕМНОГО РАДОСТИ! ● СОЗДАННЫЙ ДЛЯ ПОЛУЧЕНИЯ УДОВОЛЬСТВИЯ И ПОЛЬЗЫ ИЗ ОТБОРНЫХ СОРТОВ КОФЕ, НАПИТОК ОБОГАЩЕН РЕДКИМ КОМПОНЕНТОМ - МИЦЕЛИЕМ КОРДИЦЕПСА ДЛЯ АКТИВИЗАЦИИ ЖИЗНЕННЫХ СИЛ ● РЕКОМЕНДОВАН ДЛЯ ПОВЫШЕНИЯ ТОНУСА И РАБОТОСПОСОБНОСТИ ● АКТИВИЗИРУЕТ МЫСЛИТЕЛЬНУЮ ДЕЯТЕЛЬНОСТЬ ● УЛУЧШАЕТ УГЛЕВОДНЫЙ ОБМЕН И КРОВООБРАЩЕНИЕ.</description>
 </offer>
-<offer id="лютеин-тяньши" available="true">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/лютеин-тяньши</url>
-<price>604</price>
+<offer id="секрет-красоты" available="true">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/секрет-красоты</url>
+<price>18375</price>
 <currencyId>RUB</currencyId>
 <categoryId>1</categoryId>
-<picture>https://img1.creatium.ru/disk2/44/53/c5/ef9332e2a2d7f3ebe8878920b882ad62c2/7223809723.jpg</picture>
-<name>Антиоксиданты д/глаз</name>
-<description>● МАРМЕЛАДНЫЕ МИШКИ С НАТУРАЛЬНЫМИ АНТИОКСИДАНТАМИ И ЧЕРНИЧНЫМ СОКОМ ДЛЯ СНИЖЕНИЯ УТОМЛЯЕМОСТИ ГЛАЗ И ЗАЩИТЫ ОТ ИЗЛУЧЕНИЯ ЭКРАНОВ КОМПЬЮТЕРОВ И СМАРТФОНОВ. ● 30 пастилок в коробке</description>
+<picture>https://img1.creatium.ru/disk2/3d/27/91/86624daf9fc61da50a670c255b8e6df214/61c0444af15c6_jpg_v_201910111530.jpg</picture>
+<name>Секрет Красоты</name>
+<description>● УМНЫЙ, МОЩНЫЙ, СТИЛЬНЫЙ МНОГОФУНКЦИОНАЛЬНЫЙ ПРИБОР ДЛЯ ДОМАШНЕГО УХОДА ЗА КОЖЕЙ ЛИЦА, ИСПОЛЬЗУЮЩИЙ ЧЕТЫРЕ РАЗЛИЧНЫХ ФИЗИЧЕСКИХ ФАКТОРА ДЛЯ ЧУДЕСНОГО ПРЕОБРАЖЕНИЯ ВАШЕЙ КОЖИ</description>
 </offer>
-<offer id="детский-кальций-тяньши" available="true">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/детский-кальций-тяньши</url>
-<price>1484</price>
+<offer id="для-посуды-тяньши" available="true">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/для-посуды-тяньши</url>
+<price>809</price>
 <currencyId>RUB</currencyId>
 <categoryId>1</categoryId>
-<picture>https://img1.creatium.ru/disk2/28/e6/ac/ce8ea44f250ba39836c11e8119d7c5a6d2/img_339453_339453_png_t_1762316204.png</picture>
-<name>Детский кальций "Тяньши" (100г)</name>
-<description>• ВЫБОР ЗАБОТЛИВЫХ РОДИТЕЛЕЙ • СОДЕРЖИТ УНИКАЛЬНЫЙ ИСТОЧНИК КАЛЬЦИЯ – ФЕРМЕНТИРОВАННЫЙ КОСТНЫЙ ПОРОШОК • ОПТИМАЛЬНОЕ СРЕДСТВО ДЛЯ КОМПЛЕКСНОЙ ПОДДЕРЖКИ РАСТУЩЕГО ОРГАНИЗМА.</description>
-</offer>
-<offer id="ионный-очиститель" available="true">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/ионный-очиститель</url>
-<price>16905</price>
-<currencyId>RUB</currencyId>
-<categoryId>1</categoryId>
-<picture>https://img1.creatium.ru/disk2/37/e8/bd/20962b91d8d85177a9a5637e841cd35597/3497945267083042820_jpg_template_2_shape_2_w_800_h_800_q_80_.webp</picture>
-<name>Очиститель продуктов</name>
-<description>очищает и обеззараживает продукты путем электролиза водопроводной воды с образованием окислителей (кислород, водород, гидроксильные группы). Окислители естественным и безопасным образом разрушают бактерии, токсины, гормоны и другие загрязнения, находящиеся в продуктах.</description>
-</offer>
-<offer id="черный-браслет-тяньши" available="true">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/черный-браслет-тяньши</url>
-<price>4399</price>
-<currencyId>RUB</currencyId>
-<categoryId>1</categoryId>
-<picture>https://img1.creatium.ru/disk2/3d/c9/09/3b36be76c8bbee22e126d8e64038729e32/photo_2026_02_19_11_40_59.jpg</picture>
-<name>Браслет Black титановый магнитный</name>
-<description>СТИЛЬНЫЙ АКСЕССУАР И ЗАБОТА О ЗДОРОВЬЕ. НЕЙТРАЛИЗУЕТ НЕГАТИВНОЕ ВЛИЯНИЕ ЭЛЕКТРОПРИБОРОВ И ГАДЖЕТОВ НА БИОПОЛЕ ОРГАНИЗМА. СПОСОБСТВУЕТ ВОССТАНОВЛЕНИЮ РАБОТОСПОСОБНОСТИ И УКРЕПЛЕНИЮ ЗАЩИТНЫХ СИЛ. ПОМОГАЕТ ПРИ ГОЛОВНЫХ БОЛЯХ, СКАЧКАХ ДАВЛЕНИЯ И МЫШЕЧНЫХ СПАЗМАХ.</description>
-</offer>
-<offer id="многофункционалка" available="true">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/многофункционалка</url>
-<price>588</price>
-<currencyId>RUB</currencyId>
-<categoryId>1</categoryId>
-<picture>https://img1.creatium.ru/disk2/ea/43/e2/97e1a64975933ca1135842caa130ae3c3e/6984229914.jpg</picture>
-<name>Многофункциональное моющее средство</name>
-<description>• ИННОВАЦИОННАЯ ФОРМУЛА ОЧИСТКИ В ПРЕПАРАТЕ, ПРЕДНАЗНАЧЕННОМ ДЛЯ ЭФФЕКТИВНОГО УДАЛЕНИЯ БЫТОВЫХ ЗАГРЯЗНЕНИЙ НА ПОЛАХ И СТЕНАХ, КАФЕЛЕ И ЗЕРКАЛАХ, ДЕРЕВЯННЫХ ПОВЕРХНОСТЯХ И ТКАНЕВОЙ ОБИВКЕ МЕБЕЛИ. • ОТЛИЧНО ОЧИЩАЕТ ОТ ГРЯЗИ, ПЯТЕН, ЖИРА И НАЛЕТА, ПЫЛИ И МИКРОБОВ. • 1 л.</description>
-</offer>
-<offer id="очиститель-воздуха" available="true">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/очиститель-воздуха</url>
-<price>47408</price>
-<currencyId>RUB</currencyId>
-<categoryId>1</categoryId>
-<picture>https://img1.creatium.ru/disk2/49/ac/2d/5f19ea6ba4ee2e7bfccf6ff72bc1c6311f/2055254688522354688_png_template_2_shape_2_w_800_h_800_q_80_.webp</picture>
-<name>Очиститель воздуха</name>
-<description>ЛИЧНЫЙ ПРИБОР ДЛЯ ПОДДЕРЖАНИЯ ЗДОРОВЬЯ, ПОВЫШЕНИЯ ИММУНИТЕТА И ОЧИЩЕНИЯ ПОМЕЩЕНИЙ</description>
-</offer>
-<offer id="витамин-д" available="true">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/витамин-д</url>
-<price>737</price>
-<currencyId>RUB</currencyId>
-<categoryId>1</categoryId>
-<picture>https://img1.creatium.ru/disk2/b7/83/f4/748f8e44a1c4ecc68db14581f573a9efdb/6894062991.jpg</picture>
-<name>Витамин Д 2000МЕ</name>
-<description>ГЛОТОК СОЛНЦА БЕЗ ЛИШНЕГО УЛЬТРАФИОЛЕТА ● ИСТОЧНИК ЛЕГКОУСВОЯЕМОГО ВИТАМИНА D В ОПТИМАЛЬНОЙ ДОЗИРОВКЕ 2000 МЕ И УДОБНОЙ ФОРМЕ СПРЕЯ ● 30 мл/ 200 доз</description>
-</offer>
-<offer id="детский-кальций-454" available="true">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/детский-кальций-454</url>
-<price>5174</price>
-<currencyId>RUB</currencyId>
-<categoryId>1</categoryId>
-<picture>https://img1.creatium.ru/disk2/34/05/f7/f0ae560787480fb553cd0ed344408e5163/7381597696.jpg</picture>
-<name>Детский кальций "Тяньши" (454г)</name>
-<description>• ВЫБОР ЗАБОТЛИВЫХ РОДИТЕЛЕЙ • СОДЕРЖИТ УНИКАЛЬНЫЙ ИСТОЧНИК КАЛЬЦИЯ – ФЕРМЕНТИРОВАННЫЙ КОСТНЫЙ ПОРОШОК • ОПТИМАЛЬНОЕ СРЕДСТВО ДЛЯ КОМПЛЕКСНОЙ ПОДДЕРЖКИ РАСТУЩЕГО ОРГАНИЗМА.</description>
-</offer>
-<offer id="дневные-прокладки" available="true">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/дневные-прокладки</url>
-<price>392</price>
-<currencyId>RUB</currencyId>
-<categoryId>1</categoryId>
-<picture>https://img1.creatium.ru/disk2/26/10/fb/449f590a75326afd661a2787bba88e46ef/orig.jpg</picture>
-<name>Дневные прокладки</name>
-<description>Полный контроль и постоянная защита!</description>
-</offer>
-<offer id="омега3" available="true">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/омега3</url>
-<price>1864</price>
-<currencyId>RUB</currencyId>
-<categoryId>1</categoryId>
-<picture>https://img1.creatium.ru/disk2/40/b3/5a/b49b2f88d4daa51ffb653edded8ef875ad/img_345342_345342_png_t_1739595878.png</picture>
-<name>Омега-3 90%</name>
-<description>• НАТУРАЛЬНЫЙ ИСТОЧНИК ЦЕННЫХ ОМЕГА-3 НЕНАСЫЩЕННЫХ ЖИРНЫХ КИСЛОТ В ВЫСОКОЙ КОНЦЕНТРАЦИИ ДЛЯ ПОДДЕРЖАНИЯ ЗДОРОВЬЯ СЕРДЕЧНО-СОСУДИСТОЙ СИСТЕМЫ.</description>
-</offer>
-<offer id="желе-с-коллагеном" available="true">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/желе-с-коллагеном</url>
-<price>1369</price>
-<currencyId>RUB</currencyId>
-<categoryId>1</categoryId>
-<picture>https://img1.creatium.ru/disk2/98/e4/51/4ed6e0f8365da2a2996da6276613029e5c/g9ol8owg9wil8zdpzmkh2gakw92lzzxx.jpg</picture>
-<name>Желе с коллагеном</name>
-<description>• ВКУСНОЕ ЖЕЛЕ С ВЫСОКИМ СОДЕРЖАНИЕМ РЫБЬЕГО КОЛЛАГЕНА, УСИЛЕННОЕ ОСОБЫМИ РАСТИТЕЛЬНЫМИ ЭКСТРАКТАМИ ДЛЯ ПОВЫШЕНИЯ СИНТЕЗА СОБСТВЕННОГО КОЛЛАГЕНА В ОРГАНИЗМЕ • УДОБНЫЙ И ПРИЯТНЫЙ СПОСОБ ПОДАРИТЬ ГЛАДКОСТЬ И УПРУГОСТЬ КОЖЕ, ВОЛОСАМ И НОГТЯМ И ПРОЧНОСТЬ КОСТЯМ, СВЯЗКАМ И СУХОЖИЛИЯМ.</description>
-</offer>
-<offer id="кордицепс-тяньши" available="true">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/кордицепс-тяньши</url>
-<price>2639</price>
-<currencyId>RUB</currencyId>
-<categoryId>1</categoryId>
-<picture>https://img1.creatium.ru/disk2/48/09/d0/e453ffa92602ab4f25ba7821bb65eff164/orig.jpg</picture>
-<name>Кордицепс "Тяньши"</name>
-<description>• НАСТОЯЩЕЕ ЗОЛОТО КИТАЙСКОЙ ТРАДИЦИОННОЙ МЕДИЦИНЫ</description>
-</offer>
-<offer id="крем-тяньши" available="true">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/крем-тяньши</url>
-<price>2960</price>
-<currencyId>RUB</currencyId>
-<categoryId>1</categoryId>
-<picture>https://img1.creatium.ru/disk2/a2/1c/4e/1218af2b5262139b0d8585a80d8656c0d9/orig.jpg</picture>
-<name>Крем увлажняющий</name>
-<description>Для молодости кожи!
-     • Разглаживает морщинки
-     • Делает кожу упругой и эластичной
-     • Усиливает естественную защиту кожи</description>
-</offer>
-<offer id="витамины-для-глаз-тяньши" available="true">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/витамины-для-глаз-тяньши</url>
-<price>2309</price>
-<currencyId>RUB</currencyId>
-<categoryId>1</categoryId>
-<picture>https://img1.creatium.ru/disk2/15/04/99/f2c71e3a8850dbd2fbf7c7abb716f19c8f/6857534548.jpg</picture>
-<name>Витамины для глаз</name>
-<description>• ОПТИМАЛЬНЫЙ ПРИРОДНЫЙ КОМПЛЕКС ДЛЯ ПОДДЕРЖАНИЯ ОСТРОТЫ ЗРЕНИЯ И ЗАБОТЫ О ЗДОРОВЬЕ ГЛАЗ. • ЛУЧШАЯ ПОДДЕРЖКА ДЛЯ ВАШИХ ГЛАЗ ПРИ ДЛИТЕЛЬНОЙ РАБОТЕ ЗА КОМПЬЮТЕРОМ ИЛИ ЧРЕЗМЕРНОМ ИСПОЛЬЗОВАНИИ СМАРТФОНА И ПРОЧИХ МОБИЛЬНЫХ УСТРОЙСТВ.</description>
-</offer>
-<offer id="карблок-тяньши" available="true">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/карблок-тяньши</url>
-<price>2199</price>
-<currencyId>RUB</currencyId>
-<categoryId>1</categoryId>
-<picture>https://img1.creatium.ru/disk2/7d/81/5c/df1aae329307bad5de50400db18ea9af1a/9hq.png</picture>
-<name>CarbLock TIENS</name>
-<description>Корректор метаболизма с кордицепсом и рейши. Нормализует углеводный обмен, помогает наладить энергетический баланс, контролировать вес и аппетит.</description>
-</offer>
-<offer id="сила-жизни-тяньши" available="true">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/сила-жизни-тяньши</url>
-<price>2964</price>
-<currencyId>RUB</currencyId>
-<categoryId>1</categoryId>
-<picture>https://img1.creatium.ru/disk2/d6/9e/82/1f91ed50b343bab838e8ba68fbdbdbe00b/7121021442.webp</picture>
-<name>Сила жизни "Тяньши"</name>
-<description>● ОБНОВЛЕНИЕ КРОВИ ● ПОВЫШЕНИЕ ЛИБОДО ● ДАЕТ ЖИЗНЕННУЮ СИЛУ ● АКТИВИЗАЦИЯ ИММУННОЙ СИСТЕМЫ ● 150 КАПСУЛ</description>
+<picture>https://img1.creatium.ru/disk2/69/db/96/781d8e15e5f515e75888860a3cfcdd3be1/orig.jpg</picture>
+<name>Средство для мытья посуды</name>
+<description>• СИЯНИЕ ФАРФОРА, БЛЕСК ГРАНЕЙ ХРУСТАЛЬНЫХ ФУЖЕРОВ, ЧИСТОТУ КАСТРЮЛЬ И СКОВОРОДОК ОБЕСПЕЧИТ ИСПОЛЬЗОВАНИЕ В ЕЖЕДНЕВНОЙ ХОЗЯЙСТВЕННОЙ РАБОТЕ НА КУХНЕ КОНЦЕНТРИРОВАННОГО СРЕДСТВА ДЛЯ МЫТЬЯ ПОСУДЫ DICHO РОССИЙСКОГО ПРОИЗВОДСТВА • УТОМИТЕЛЬНЫЙ ПРОЦЕСС СТАНЕТ БЫСТРЫМ И НЕОБРЕМЕНИТЕЛЬНЫМ, ЕСЛИ ОРГАНИЗОВАТЬ ЕГО ГРАМОТНО И ИСПОЛЬЗОВАТЬ ЭКОНОМИЧНОЕ И ЭФФЕКТИВНОЕ СРЕДСТВО • 1 л</description>
 </offer>
 <offer id="линчжи-тяньши" available="true">
 <url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/линчжи-тяньши</url>
@@ -334,15 +164,6 @@
  
 Облегчает симптомы кашля, снимает симптомы астмы, действует спазмолитически</description>
 </offer>
-<offer id="легкая-голова" available="true">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/легкая-голова</url>
-<price>15729</price>
-<currencyId>RUB</currencyId>
-<categoryId>1</categoryId>
-<picture>https://img1.creatium.ru/disk2/fe/d5/a6/41172411b08a9c712f6d8d3014f8a239ad/orig.jpg</picture>
-<name>Расческа</name>
-<description>Высокотехнологичный прибор нового поколения, созданный на стыке знаний традиционной китайской медицины и передовых достижений современной науки. Позиционируемое как удобный и функциональный аксессуар для ежедневного ухода за волосами и кожей головы, устройство применяется для оздоровительных процедур в домашних условиях.</description>
-</offer>
 <offer id="витамишки" available="true">
 <url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/витамишки</url>
 <price>1123</price>
@@ -351,6 +172,42 @@
 <picture>https://img1.creatium.ru/disk2/ed/e3/4e/6db156d0b8b9a1d8620f825adbff2686df/6359092436.jpg</picture>
 <name>Мультивитамины 3+</name>
 <description>• ВКУСНЫЕ И ПОЛЕЗНЫЕ МАРМЕЛАДНЫЕ МИШКИ – ИСТОЧНИК ВИТАМИНОВ ДЛЯ ДЕТЕЙ И ИХ РОДИТЕЛЕЙ</description>
+</offer>
+<offer id="омега3" available="true">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/омега3</url>
+<price>1864</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://img1.creatium.ru/disk2/40/b3/5a/b49b2f88d4daa51ffb653edded8ef875ad/img_345342_345342_png_t_1739595878.png</picture>
+<name>Омега-3 90%</name>
+<description>• НАТУРАЛЬНЫЙ ИСТОЧНИК ЦЕННЫХ ОМЕГА-3 НЕНАСЫЩЕННЫХ ЖИРНЫХ КИСЛОТ В ВЫСОКОЙ КОНЦЕНТРАЦИИ ДЛЯ ПОДДЕРЖАНИЯ ЗДОРОВЬЯ СЕРДЕЧНО-СОСУДИСТОЙ СИСТЕМЫ.</description>
+</offer>
+<offer id="цинк-тяньши" available="false">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/цинк-тяньши</url>
+<price>604</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://img1.creatium.ru/disk2/78/0a/c4/17fc2e402bad2259f557bea2dc5636e358/orig.jpg</picture>
+<name>Капсулы с цинком</name>
+<description>● ЕСТЕСТВЕННЫЙ ИСТОЧНИК ЦИНКА, ВАЖНЕЙШЕГО МИНЕРАЛА, ЗАДЕЙСТВОВАННОГО В РАБОТЕ БОЛЕЕ 300 ФЕРМЕНТОВ В ОРГАНИЗМЕ ЧЕЛОВЕКА ● ЕЖЕДНЕВНОЕ УПОТРЕБЛЕНИЕ ДОСТАТОЧНОГО КОЛИЧЕСТВА ЦИНКА ОСОБЕННО ВАЖНО ДЛЯ ЗРЕНИЯ, КОЖИ, ИММУНИТЕТА И МУЖСКОГО РЕПРОДУКТИВНОГО ЗДОРОВЬЯ.</description>
+</offer>
+<offer id="для-стирки-тяньши" available="true">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/для-стирки-тяньши</url>
+<price>600</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://img1.creatium.ru/disk2/13/83/56/c84344f70aced3355add7dc796a3516b8e/orig.jpg</picture>
+<name>Средство для стирки</name>
+<description>• ПРОДЛИТЬ ЖИЗНЬ ПРЕДМЕТАМ ОДЕЖДЫ, НЕПОСРЕДСТВЕННО КОНТАКТИРУЮЩИМ С КОЖЕЙ И ТРЕБУЮЩИМ ОСОБОГО АККУРАТНОГО ОТНОШЕНИЯ, СОХРАНИТЬ «КОМПЛЕКТ МЕЧТЫ», ТОНКИЕ ТКАНИ, НЕЖНЫЕ КРУЖЕВА И НАСЫЩЕННЫЕ КРАСКИ ПОМОЖЕТ СРЕДСТВО DICHO ДЛЯ РУЧНОЙ СТИРКИ ЦВЕТНОГО И БЕЛОГО БЕЛЬЯ ИЗ ДЕЛИКАТНЫХ ТКАНЕЙ. • 1 Л.</description>
+</offer>
+<offer id="детский-кальций-454" available="true">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/детский-кальций-454</url>
+<price>5174</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://img1.creatium.ru/disk2/34/05/f7/f0ae560787480fb553cd0ed344408e5163/7381597696.jpg</picture>
+<name>Детский кальций "Тяньши" (454г)</name>
+<description>• ВЫБОР ЗАБОТЛИВЫХ РОДИТЕЛЕЙ • СОДЕРЖИТ УНИКАЛЬНЫЙ ИСТОЧНИК КАЛЬЦИЯ – ФЕРМЕНТИРОВАННЫЙ КОСТНЫЙ ПОРОШОК • ОПТИМАЛЬНОЕ СРЕДСТВО ДЛЯ КОМПЛЕКСНОЙ ПОДДЕРЖКИ РАСТУЩЕГО ОРГАНИЗМА.</description>
 </offer>
 <offer id="наматрасник-тяньши" available="true">
 <url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/наматрасник-тяньши</url>
@@ -362,115 +219,104 @@
 <description>– улучшает микроциркуляцию, стимулирует метаболизм, повышает иммунитет
 – увеличивает содержание кислорода в крови, стимулирует кровообращение, снимает боль</description>
 </offer>
-<offer id="цинк-тяньши" available="true">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/цинк-тяньши</url>
-<price>604</price>
+<offer id="желе-с-коллагеном" available="true">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/желе-с-коллагеном</url>
+<price>1369</price>
 <currencyId>RUB</currencyId>
 <categoryId>1</categoryId>
-<picture>https://img1.creatium.ru/disk2/78/0a/c4/17fc2e402bad2259f557bea2dc5636e358/orig.jpg</picture>
-<name>Капсулы с цинком</name>
-<description>● ЕСТЕСТВЕННЫЙ ИСТОЧНИК ЦИНКА, ВАЖНЕЙШЕГО МИНЕРАЛА, ЗАДЕЙСТВОВАННОГО В РАБОТЕ БОЛЕЕ 300 ФЕРМЕНТОВ В ОРГАНИЗМЕ ЧЕЛОВЕКА ● ЕЖЕДНЕВНОЕ УПОТРЕБЛЕНИЕ ДОСТАТОЧНОГО КОЛИЧЕСТВА ЦИНКА ОСОБЕННО ВАЖНО ДЛЯ ЗРЕНИЯ, КОЖИ, ИММУНИТЕТА И МУЖСКОГО РЕПРОДУКТИВНОГО ЗДОРОВЬЯ.</description>
+<picture>https://img1.creatium.ru/disk2/98/e4/51/4ed6e0f8365da2a2996da6276613029e5c/g9ol8owg9wil8zdpzmkh2gakw92lzzxx.jpg</picture>
+<name>Желе с коллагеном</name>
+<description>• ВКУСНОЕ ЖЕЛЕ С ВЫСОКИМ СОДЕРЖАНИЕМ РЫБЬЕГО КОЛЛАГЕНА, УСИЛЕННОЕ ОСОБЫМИ РАСТИТЕЛЬНЫМИ ЭКСТРАКТАМИ ДЛЯ ПОВЫШЕНИЯ СИНТЕЗА СОБСТВЕННОГО КОЛЛАГЕНА В ОРГАНИЗМЕ • УДОБНЫЙ И ПРИЯТНЫЙ СПОСОБ ПОДАРИТЬ ГЛАДКОСТЬ И УПРУГОСТЬ КОЖЕ, ВОЛОСАМ И НОГТЯМ И ПРОЧНОСТЬ КОСТЯМ, СВЯЗКАМ И СУХОЖИЛИЯМ.</description>
 </offer>
-<offer id="спирулина-тяньши" available="true">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/спирулина-тяньши</url>
-<price>1814</price>
+<offer id="фруктозаны-тяньши" available="true">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/фруктозаны-тяньши</url>
+<price>861</price>
 <currencyId>RUB</currencyId>
 <categoryId>1</categoryId>
-<picture>https://img1.creatium.ru/disk2/12/c3/86/03d16151063942e28dcf4b02a45625924b/orig.jpg</picture>
-<name>Спирулина в капсулах</name>
-<description>• СУПЕРФУД • УНИКАЛЬНЫЙ ПРИРОДНЫЙ ИСТОЧНИК ПИТАТЕЛЬНЫХ ВЕЩЕСТВ, КОТОРЫЕ ПОМОГАЮТ ПОДДЕРЖИВАТЬ ИММУНИТЕТ, УКРЕПЛЯТЬ МЫШЦЫ, ПРОФИЛАКТИРОВАТЬ АНЕМИЮ И ЗАЩИЩАЮТ ОТ ВРЕДНЫХ ВОЗДЕЙСТВИЙ.</description>
+<picture>https://img1.creatium.ru/disk2/54/2c/ca/5d7a359ebf20e5c5ac095813f32e955573/orig.png</picture>
+<name>Сироп из фруктозанов</name>
+<description>● ПОЛЕЗНАЯ АЛЬТЕРНАТИВА САХАРУ ● ГУСТОЙ И СЛАДКИЙ РАСТИТЕЛЬНЫЙ СИРОП С ПРЕБИОТИКАМИ ДЛЯ ХОРОШЕЙ РАБОТЫ КИШЕЧНИКА, КРЕПКОГО ИММУНИТЕТА И ОТЛИЧНОГО НАСТРОЕНИЯ ● 6 пакетиков по 10 мл</description>
 </offer>
-<offer id="тиенс-лайф" available="true">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/тиенс-лайф</url>
-<price>9800</price>
+<offer id="целлюлоза-тяньши" available="true">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/целлюлоза-тяньши</url>
+<price>1357</price>
 <currencyId>RUB</currencyId>
 <categoryId>1</categoryId>
-<picture>https://img1.creatium.ru/disk2/f1/55/fc/a003e3a81ee873933d1ef677144b132a0e/6337801037.jpg</picture>
-<name>Тиенс-Лайф</name>
-<description>портативный диагностический прибор определяет состояние органов тела человека благодаря уровню болевых ощущений на поверхности кожи без ее прокалывания.</description>
+<picture>https://img1.creatium.ru/disk2/f5/c3/da/90b1d5ec5009121a6352e9cf562309f65d/7236003626.jpg</picture>
+<name>Таблетки с целлюлозой</name>
+<description>● ОПТИМАЛЬНАЯ КОМБИНАЦИЯ ПИЩЕВЫХ ВОЛОКОН РАСТИТЕЛЬНОГО ПРОИСХОЖДЕНИЯ ДВУХ ТИПОВ (РАСТВОРИМЫХ И НЕРАСТВОРИМЫХ) ДЛЯ УЛУЧШЕНИЯ ФУНКЦИЙ КИШЕЧНИКА ● УДОБНАЯ ФОРМА ЖЕВАТЕЛЬНЫХ ТАБЛЕТОК ПОЗВОЛИТ БЫСТРО И ПРОСТО НАЛАДИТЬ ПИЩЕВАРЕНИЕ, УКРЕПИТЬ ИММУНИТЕТ, КОНТРОЛИРОВАТЬ ВЕС И ПОВЫСИТЬ ЖИЗНЕННЫЙ ТОНУС ОРГАНИЗМА.</description>
 </offer>
-<offer id="селен-тяньши" available="true">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/селен-тяньши</url>
-<price>1391</price>
+<offer id="детский-кальций-тяньши" available="true">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/детский-кальций-тяньши</url>
+<price>1484</price>
 <currencyId>RUB</currencyId>
 <categoryId>1</categoryId>
-<picture>https://img1.creatium.ru/disk2/94/fe/82/ca9486fa94c439e970c16255e615f9e655/orig.jpg</picture>
-<name>Капсулы с селеном</name>
-<description>• СЕЛЕН - НЕЗАМЕНИМЫЙ МИКРОЭЛЕМЕНТ, ЗАДЕЙСТВОВАННЫЙ В РАБОТЕ БОЛЕЕ 30 ФЕРМЕНТОВ В ОРГАНИЗМЕ ЧЕЛОВЕКА • ОСОБЕННО ВАЖЕН СЕЛЕН ДЛЯ ИММУНИТЕТА, НОРМАЛЬНОЙ ФУНКЦИИ ЩИТОВИДНОЙ ЖЕЛЕЗЫ И РЕПРОДУКТИВНОГО ЗДОРОВЬЯ • РЕГУЛЯРНЫЙ ПРИЕМ ДОСТАТОЧНОГО КОЛИЧЕСТВА СЕЛЕНА УКРЕПЛЯЕТ ЗАЩИТУ ОРГАНИЗМА ОТ ОКИСЛИТЕЛЬНОГО СТРЕССА И ПРЕДУПРЕЖДАЕТ ПРЕЖДЕВРЕМЕННОЕ СТАРЕНИЕ.</description>
+<picture>https://img1.creatium.ru/disk2/28/e6/ac/ce8ea44f250ba39836c11e8119d7c5a6d2/img_339453_339453_png_t_1762316204.png</picture>
+<name>Детский кальций "Тяньши" (100г)</name>
+<description>• ВЫБОР ЗАБОТЛИВЫХ РОДИТЕЛЕЙ • СОДЕРЖИТ УНИКАЛЬНЫЙ ИСТОЧНИК КАЛЬЦИЯ – ФЕРМЕНТИРОВАННЫЙ КОСТНЫЙ ПОРОШОК • ОПТИМАЛЬНОЕ СРЕДСТВО ДЛЯ КОМПЛЕКСНОЙ ПОДДЕРЖКИ РАСТУЩЕГО ОРГАНИЗМА.</description>
 </offer>
-<offer id="зубная-паста-тяньши" available="true">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/зубная-паста-тяньши</url>
-<price>604</price>
+<offer id="дневные-прокладки" available="true">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/дневные-прокладки</url>
+<price>392</price>
 <currencyId>RUB</currencyId>
 <categoryId>1</categoryId>
-<picture>https://img1.creatium.ru/disk2/0a/cc/e7/78d4769b22cbfd2268da6ff11bfaa49d66/6359171627.jpg</picture>
-<name>Зубная паста "Тяньши"</name>
-<description>Зубная паста Orecare с экстрактами китайских целебных трав рекомендована людям с чувствительной эмалью зубов. Прекрасно подойдет для семейного использования и в качестве профилактического средства.</description>
+<picture>https://img1.creatium.ru/disk2/26/10/fb/449f590a75326afd661a2787bba88e46ef/orig.jpg</picture>
+<name>Дневные прокладки</name>
+<description>Полный контроль и постоянная защита!</description>
 </offer>
-<offer id="вэйкан-тяньши" available="true">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/вэйкан-тяньши</url>
-<price>1913</price>
+<offer id="витамины-для-глаз-тяньши" available="true">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/витамины-для-глаз-тяньши</url>
+<price>2309</price>
 <currencyId>RUB</currencyId>
 <categoryId>1</categoryId>
-<picture>https://img1.creatium.ru/disk2/ac/63/93/0ef7fdc3a91b11638e6b7483fea8326b91/img_338989_338989.png</picture>
-<name>Вэйкан "Тяньши"</name>
-<description>• ПРИРОДНЫЙ КОМПЛЕКС ДЛЯ ПОДДЕРЖАНИЯ ФУНКЦИИ НЕРВНОЙ СИСТЕМЫ НА КЛЕТОЧНОМ УРОВНЕ • ОПТИМАЛЬНОЕ СРЕДСТВО ДЛЯ ПОВЫШЕНИЯ РАБОТОСПОСОБНОСТИ И ВОССТАНОВЛЕНИЯ ПОСЛЕ ТЯЖЕЛЫХ ФИЗИЧЕСКИХ, УМСТВЕННЫХ И ПСИХОЭМОЦИОНАЛЬНЫХ НАГРУЗОК.</description>
+<picture>https://img1.creatium.ru/disk2/15/04/99/f2c71e3a8850dbd2fbf7c7abb716f19c8f/6857534548.jpg</picture>
+<name>Витамины для глаз</name>
+<description>• ОПТИМАЛЬНЫЙ ПРИРОДНЫЙ КОМПЛЕКС ДЛЯ ПОДДЕРЖАНИЯ ОСТРОТЫ ЗРЕНИЯ И ЗАБОТЫ О ЗДОРОВЬЕ ГЛАЗ. • ЛУЧШАЯ ПОДДЕРЖКА ДЛЯ ВАШИХ ГЛАЗ ПРИ ДЛИТЕЛЬНОЙ РАБОТЕ ЗА КОМПЬЮТЕРОМ ИЛИ ЧРЕЗМЕРНОМ ИСПОЛЬЗОВАНИИ СМАРТФОНА И ПРОЧИХ МОБИЛЬНЫХ УСТРОЙСТВ.</description>
 </offer>
-<offer id="кальций-с-витаминами" available="true">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/кальций-с-витаминами</url>
-<price>2089</price>
-<currencyId>RUB</currencyId>
-<categoryId>1</categoryId>
-<picture>https://img3.creatium.ru/disk2/5c/79/bb/671811121eb9b50c9b25e5b5950ef744cb/snimok_ekrana_2026_04_21_v_14_49_45.png</picture>
-<name>Кальций с витаминами</name>
-<description>• ЭКСКЛЮЗИВНЫЙ ИСТОЧНИК КАЛЬЦИЯ, УСИЛЕННЫЙ ПИЩЕВЫМИ ВОЛОКНАМИ И НАТУРАЛЬНЫМИ РАСТИТЕЛЬНЫМИ ЭКСТРАКТАМИ • ПОМОГАЕТ КОНТРОЛИРОВАТЬ ВЕС И УРОВЕНЬ САХАРА В КРОВИ</description>
-</offer>
-<offer id="супер-серен-тяньши" available="true">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/супер-серен-тяньши</url>
-<price>2089</price>
-<currencyId>RUB</currencyId>
-<categoryId>1</categoryId>
-<picture>https://img1.creatium.ru/disk2/0f/d1/72/06f10c92e07dbb538992a5650ce482233b/kapsuly_bad_tiens_super_seren_id_54138451_854916405.jpg</picture>
-<name>Супер Серен</name>
-<description>• КОМПЛЕКС ИЗ РАСТЕНИЙ, ИСПОЛЬЗУЮЩИХСЯ В КИТАЙСКОЙ ТРАДИЦИОННОЙ МЕДИЦИНЕ ДЛЯ ПОДДЕРЖАНИЯ ЖЕНСКОГО ЗДОРОВЬЯ И КРАСОТЫ • КАПСУЛЫ «СУПЕР СЕРЕН» СОДЕРЖАТ ФИТОЭСТРОГЕНЫ – ВЕЩЕСТВА, ПОДОБНЫЕ ПО СТРУКТУРЕ И ЭФФЕКТУ ЖЕНСКИМ ПОЛОВЫМ ГОРМОНАМ • ФИТОЭСТРОГЕНЫ МЯГКО И ЕСТЕСТВЕННО ПОДДЕРЖИВАЮТ ОРГАНИЗМ ЖЕНЩИНЫ В ПЕРИОД МЕНОПАУЗЫ.</description>
-</offer>
-<offer id="прополис-тяньши" available="true">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/прополис-тяньши</url>
+<offer id="фолиевая-тяньши" available="true">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/фолиевая-тяньши</url>
 <price>1319</price>
 <currencyId>RUB</currencyId>
 <categoryId>1</categoryId>
-<picture>https://img1.creatium.ru/disk2/93/3e/9f/cbe3f555538581734c5b4f198b5b44e606/8074541627.jpg</picture>
-<name>Прополис "Тяньши"</name>
-<description>• ПРИРОДНОЕ СРЕДСТВО ДЛЯ ЗАБОТЫ О ЗДОРОВЬЕ ПОЛОСТИ РТА И НОСОГЛОТКИ, ПОВЫШЕНИЯ ЗАЩИТЫ ОТ БАКТЕРИЙ И ВИРУСОВ, А ТАКЖЕ ДЛЯ УКРЕПЛЕНИЯ СОСУДОВ.</description>
+<picture>https://img1.creatium.ru/disk2/37/17/93/14d22638bedeb7a188c17c0b58d1016807/7455301500.jpg</picture>
+<name>Фолиевая с железом</name>
+<description>● ФОЛИЕВАЯ КИСЛОТА И ЖЕЛЕЗО НЕОБХОДИМЫ ДЛЯ НОРМАЛЬНОЙ ФУНКЦИИ КРОВЕТВОРЕНИЯ И ОБЕСПЕЧЕНИЯ КИСЛОРОДОМ ВСЕХ ОРГАНОВ И ТКАНЕЙ ТЕЛА ЧЕЛОВЕКА ● РЕГУЛЯРНЫЙ ПРИЕМ ФОЛИЕВОЙ КИСЛОТЫ С ЖЕЛЕЗОМ ПОМОГАЕТ ИЗБЕЖАТЬ АНЕМИИ И СВЯЗАННЫХ С НЕЙ УСТАЛОСТИ, СЛАБОСТИ И СНИЖЕНИЯ ЗАЩИТНЫХ СИЛ ОРГАНИЗМА</description>
 </offer>
-<offer id="лосьон-тяньши" available="false">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/лосьон-тяньши</url>
-<price>2499</price>
+<offer id="слипинг-тяньши" available="true">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/слипинг-тяньши</url>
+<price>1492</price>
 <currencyId>RUB</currencyId>
 <categoryId>1</categoryId>
-<picture>https://img1.creatium.ru/disk2/7d/6e/6b/7db0d365da8edef6841d0b05523588845c/orig.png</picture>
-<name>Лосьон для лица</name>
-<description>Увлажненная и соблазнительная кожа!
-
-Раскройте всю чувственность тонкого аромата роз и насладитесь волшебной эстетикой, окунувшись в приятную, нежную, мягкую магию увлажняющего лосьона CELLESTIANE.</description>
+<picture>https://img1.creatium.ru/disk2/93/e1/6e/bd26b7558a53b0471dd637ca74930ac31e/orig.png</picture>
+<name>Слипинг "Тяньши"</name>
+<description>• МЯГКОЕ РАСТИТЕЛЬНОЕ УСПОКАИВАЮЩЕЕ СРЕДСТВО • ВОССТАНАВЛИВАЕТ РАВНОВЕСИЕ МЕЖДУ ПРОЦЕССАМИ ВОЗБУЖДЕНИЯ И ТОРМОЖЕНИЯ В НЕРВНОЙ СИСТЕМЕ, НОРМАЛИЗУЕТ СОН И ПОМОГАЕТ БОРОТЬСЯ С ПОСЛЕДСТВИЯМИ СТРЕССА.</description>
 </offer>
-<offer id="для-унитаза-тяньши" available="false">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/для-унитаза-тяньши</url>
-<price>441</price>
+<offer id="кордицепс-тяньши" available="true">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/кордицепс-тяньши</url>
+<price>2639</price>
 <currencyId>RUB</currencyId>
 <categoryId>1</categoryId>
-<picture>https://img1.creatium.ru/disk2/6b/6f/bb/6b657747d3bfd5bca8b073c61ceac6f5b3/6779605126.jpg</picture>
-<name>Средство для мытья унитаза</name>
-<description>• ГИГИЕНА ДОМАШНЕЙ САНТЕХНИКИ – НЕ СЛИШКОМ ПРИЯТНАЯ, НО ВАЖНАЯ ЧАСТЬ ЗАБОТЫ О ЧИСТОТЕ И УЮТЕ. • ЧТОБЫ УСКОРИТЬ ПРОЦЕСС ПРИДАНИЯ УНИТАЗУ ПЕРВОЗДАННОЙ БЕЛИЗНЫ И СДЕЛАТЬ ХЛОПОТЫ ЛЕГКИМИ И НЕПРИНУЖДЕННЫМИ, ВОСПОЛЬЗУЙТЕСЬ ЭФФЕКТИВНЫМ И БЕЗОПАСНЫМ ЧИСТЯЩИМ СРЕДСТВОМ ДЛЯ УНИТАЗА DICHO • 500 МЛ</description>
+<picture>https://img1.creatium.ru/disk2/48/09/d0/e453ffa92602ab4f25ba7821bb65eff164/orig.jpg</picture>
+<name>Кордицепс "Тяньши"</name>
+<description>• НАСТОЯЩЕЕ ЗОЛОТО КИТАЙСКОЙ ТРАДИЦИОННОЙ МЕДИЦИНЫ</description>
 </offer>
-<offer id="золотой-браслет-тяньши" available="false">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/золотой-браслет-тяньши</url>
-<price>4399</price>
+<offer id="сила-жизни-тяньши" available="true">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/сила-жизни-тяньши</url>
+<price>2964</price>
 <currencyId>RUB</currencyId>
 <categoryId>1</categoryId>
-<picture>https://img1.creatium.ru/disk2/6a/5c/e0/65e305e56a6ffdcac43a9126b9af9e4272/7297051120.jpg</picture>
-<name>Браслет Gold титановый магнитный</name>
-<description>Стильный аксессуар и забота о здоровье. Нейтрализует негативное влияние электроприборов и гаджетов на биополе организма. Способствует восстановлению работоспособности и укреплению защитных сил. Помогает при головных болях, скачках давления и мышечных спазмах.</description>
+<picture>https://img1.creatium.ru/disk2/d6/9e/82/1f91ed50b343bab838e8ba68fbdbdbe00b/7121021442.webp</picture>
+<name>Сила жизни "Тяньши"</name>
+<description>● ОБНОВЛЕНИЕ КРОВИ ● ПОВЫШЕНИЕ ЛИБОДО ● ДАЕТ ЖИЗНЕННУЮ СИЛУ ● АКТИВИЗАЦИЯ ИММУННОЙ СИСТЕМЫ ● 150 КАПСУЛ</description>
+</offer>
+<offer id="индол-тяньши" available="false">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/индол-тяньши</url>
+<price>1544</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://img1.creatium.ru/disk2/42/3a/4c/7217c5ed0dfda0f295033a6dd99da8dccb/img_345642_345642_png_t_1750516881.png</picture>
+<name>Индол-3-карбинол</name>
+<description>● ЗАЩИТА РЕПРОДУКТИВНОЙ СИСТЕМЫ НА КЛЕТОЧНОМ УРОВНЕ ● 60 КАПСУЛ</description>
 </offer>
 <offer id="эссенция-тяньши" available="true">
 <url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/эссенция-тяньши</url>
@@ -485,34 +331,41 @@
      • Улучшает эластичность кожи
      • Дарит здоровый цвет и естественное сияние</description>
 </offer>
-<offer id="секрет-красоты" available="true">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/секрет-красоты</url>
-<price>18375</price>
+<offer id="жевательный-кальций" available="true">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/жевательный-кальций</url>
+<price>2961</price>
 <currencyId>RUB</currencyId>
 <categoryId>1</categoryId>
-<picture>https://img1.creatium.ru/disk2/3d/27/91/86624daf9fc61da50a670c255b8e6df214/61c0444af15c6_jpg_v_201910111530.jpg</picture>
-<name>Секрет Красоты</name>
-<description>● УМНЫЙ, МОЩНЫЙ, СТИЛЬНЫЙ МНОГОФУНКЦИОНАЛЬНЫЙ ПРИБОР ДЛЯ ДОМАШНЕГО УХОДА ЗА КОЖЕЙ ЛИЦА, ИСПОЛЬЗУЮЩИЙ ЧЕТЫРЕ РАЗЛИЧНЫХ ФИЗИЧЕСКИХ ФАКТОРА ДЛЯ ЧУДЕСНОГО ПРЕОБРАЖЕНИЯ ВАШЕЙ КОЖИ</description>
+<picture>https://img1.creatium.ru/disk2/d7/b4/ff/e4668c8f0f2929ca840c789ab2a3b22899/7604715101.jpg</picture>
+<name>Жевательный кальций</name>
+<description>Жевательные кальциевые таблетки – это средство для укрепления здоровья, которое помогает восполнить дефицит кальция в организме, способствует бодрости и повышению тонуса. Эти таблетки также обладают легким мочегонным эффектом, что может быть полезным при определённых состояниях организма.</description>
 </offer>
-<offer id="белый-браслет-тяньши" available="true">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/белый-браслет-тяньши</url>
+<offer id="тиенс-лайф" available="true">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/тиенс-лайф</url>
+<price>9800</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://img1.creatium.ru/disk2/f1/55/fc/a003e3a81ee873933d1ef677144b132a0e/6337801037.jpg</picture>
+<name>Тиенс-Лайф</name>
+<description>портативный диагностический прибор определяет состояние органов тела человека благодаря уровню болевых ощущений на поверхности кожи без ее прокалывания.</description>
+</offer>
+<offer id="черный-браслет-тяньши" available="true">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/черный-браслет-тяньши</url>
 <price>4399</price>
 <currencyId>RUB</currencyId>
 <categoryId>1</categoryId>
-<picture>https://img1.creatium.ru/disk2/c1/0c/3b/3328a27b87c7fedbeccdc38039db87bb6c/orig.jpg</picture>
-<name>Браслет White титановый магнитный</name>
-<description>Стильный аксессуар и забота о здоровье. Нейтрализует негативное влияние электроприборов и гаджетов на биополе организма. Способствует восстановлению работоспособности и укреплению защитных сил. Помогает при головных болях, скачках давления и мышечных спазмах.</description>
+<picture>https://img1.creatium.ru/disk2/3d/c9/09/3b36be76c8bbee22e126d8e64038729e32/photo_2026_02_19_11_40_59.jpg</picture>
+<name>Браслет Black титановый магнитный</name>
+<description>СТИЛЬНЫЙ АКСЕССУАР И ЗАБОТА О ЗДОРОВЬЕ. НЕЙТРАЛИЗУЕТ НЕГАТИВНОЕ ВЛИЯНИЕ ЭЛЕКТРОПРИБОРОВ И ГАДЖЕТОВ НА БИОПОЛЕ ОРГАНИЗМА. СПОСОБСТВУЕТ ВОССТАНОВЛЕНИЮ РАБОТОСПОСОБНОСТИ И УКРЕПЛЕНИЮ ЗАЩИТНЫХ СИЛ. ПОМОГАЕТ ПРИ ГОЛОВНЫХ БОЛЯХ, СКАЧКАХ ДАВЛЕНИЯ И МЫШЕЧНЫХ СПАЗМАХ.</description>
 </offer>
-<offer id="эмульсия-тяньши" available="false">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/эмульсия-тяньши</url>
-<price>2426</price>
+<offer id="магний-тяньши" available="true">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/магний-тяньши</url>
+<price>1070</price>
 <currencyId>RUB</currencyId>
 <categoryId>1</categoryId>
-<picture>https://img1.creatium.ru/disk2/22/45/50/a98bf8446c30162b2bbaa49db3657d1848/orig.jpg</picture>
-<name>Эмульсия для лица</name>
-<description>• Глубоко увлажняет
-     • Защищает кожу в течение всего дня
-     • Делает ее гладкой и приятной на ощупь</description>
+<picture>https://img1.creatium.ru/disk2/7f/c7/8a/1c932a1a4eeb8b46cda9cf9dc07859f2dd/orig.jpg</picture>
+<name>Магний B6</name>
+<description>● РАСТВОРИМЫЙ МАГНИЙ ДЛЯ ПОДДЕРЖКИ НЕРВНОЙ СИСТЕМЫ ● ПОРОШОК 90 г (30 порций) ● Мерная ложка внутри</description>
 </offer>
 <offer id="хитозан-тяньши" available="true">
 <url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/хитозан-тяньши</url>
@@ -523,32 +376,32 @@
 <name>Хитозан "Тяньши"</name>
 <description>● УНИКАЛЬНЫЙ ИСТОЧНИК НЕРАСТВОРИМЫХ ПИЩЕВЫХ ВОЛОКОН ЖИВОТНОГО ПРОИСХОЖДЕНИЯ ДЛЯ ОЧИЩЕНИЯ ОРГАНИЗМА И УЛУЧШЕНИЯ ФУНКЦИИ КИШЕЧНИКА ● МОЩНАЯ ПОДДЕРЖКА ИММУНИТЕТА И НЕЗАМЕНИМЫЙ ПОМОЩНИК В БОРЬБЕ С ЛИШНИМИ КИЛОГРАММАМИ</description>
 </offer>
-<offer id="кальций-общий" available="true">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/кальций-общий</url>
-<price>1498</price>
+<offer id="омега-3-тяньши" available="true">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/омега-3-тяньши</url>
+<price>1649</price>
 <currencyId>RUB</currencyId>
 <categoryId>1</categoryId>
-<picture>https://img1.creatium.ru/disk2/35/47/f3/5186dc3bd34382a39a3e504482f4d8e8ac/orig.jpg</picture>
-<name>Кальций с высоким содержанием</name>
-<description>• УНИКАЛЬНЫЙ ИСТОЧНИК КАЛЬЦИЯ С ВЫСОКОЙ СТЕПЕНЬЮ УСВОЯЕМОСТИ.</description>
+<picture>https://img1.creatium.ru/disk2/e6/76/6c/7336e6a16b1925bff6f1e48946ec010a12/7034766884.jpg</picture>
+<name>Омега-3 30%</name>
+<description>• ИСТОЧНИК ЦЕННЫХ ОМЕГА-3 НЕНАСЫЩЕННЫХ ЖИРНЫХ КИСЛОТ, УСИЛЕННЫЙ НАТУРАЛЬНЫМИ АНТИОКСИДАНТАМИ, ДЛЯ ПОДДЕРЖАНИЯ ЗДОРОВЬЯ ЦЕНТРАЛЬНОЙ НЕРВНОЙ СИСТЕМЫ • ПОМОГАЕТ МОЗГУ СПРАВЛЯТЬСЯ С ПОСЛЕДСТВИЯМИ СТРЕССА И ПЕРЕУТОМЛЕНИЕМ. • Упаковка: 1400 мг х 50 капсул</description>
 </offer>
-<offer id="фруктозаны-тяньши" available="true">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/фруктозаны-тяньши</url>
-<price>861</price>
+<offer id="спирулина-тяньши" available="true">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/спирулина-тяньши</url>
+<price>1814</price>
 <currencyId>RUB</currencyId>
 <categoryId>1</categoryId>
-<picture>https://img1.creatium.ru/disk2/54/2c/ca/5d7a359ebf20e5c5ac095813f32e955573/orig.png</picture>
-<name>Сироп из фруктозанов</name>
-<description>● ПОЛЕЗНАЯ АЛЬТЕРНАТИВА САХАРУ ● ГУСТОЙ И СЛАДКИЙ РАСТИТЕЛЬНЫЙ СИРОП С ПРЕБИОТИКАМИ ДЛЯ ХОРОШЕЙ РАБОТЫ КИШЕЧНИКА, КРЕПКОГО ИММУНИТЕТА И ОТЛИЧНОГО НАСТРОЕНИЯ ● 6 пакетиков по 10 мл</description>
+<picture>https://img1.creatium.ru/disk2/12/c3/86/03d16151063942e28dcf4b02a45625924b/orig.jpg</picture>
+<name>Спирулина в капсулах</name>
+<description>• СУПЕРФУД • УНИКАЛЬНЫЙ ПРИРОДНЫЙ ИСТОЧНИК ПИТАТЕЛЬНЫХ ВЕЩЕСТВ, КОТОРЫЕ ПОМОГАЮТ ПОДДЕРЖИВАТЬ ИММУНИТЕТ, УКРЕПЛЯТЬ МЫШЦЫ, ПРОФИЛАКТИРОВАТЬ АНЕМИЮ И ЗАЩИЩАЮТ ОТ ВРЕДНЫХ ВОЗДЕЙСТВИЙ.</description>
 </offer>
-<offer id="кровь-и-железо" available="true">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/кровь-и-железо</url>
-<price>3575</price>
+<offer id="зубная-паста-тяньши" available="true">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/зубная-паста-тяньши</url>
+<price>604</price>
 <currencyId>RUB</currencyId>
 <categoryId>1</categoryId>
-<picture>https://img1.creatium.ru/disk2/eb/01/7a/e8aa332a856e09913114d1c769382b3e2e/7473690718.jpg</picture>
-<name>Кровь и Железо "Тяньши"</name>
-<description>Премиальные капсулы для восполнения дефицита железа - эффективное решение для поддержания здоровья и энергии.</description>
+<picture>https://img1.creatium.ru/disk2/0a/cc/e7/78d4769b22cbfd2268da6ff11bfaa49d66/6359171627.jpg</picture>
+<name>Зубная паста "Тяньши"</name>
+<description>Зубная паста Orecare с экстрактами китайских целебных трав рекомендована людям с чувствительной эмалью зубов. Прекрасно подойдет для семейного использования и в качестве профилактического средства.</description>
 </offer>
 <offer id="ресвератрол-тяньши" available="true">
 <url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/ресвератрол-тяньши</url>
@@ -559,14 +412,53 @@
 <name>Капсулы с ресвератролом</name>
 <description>• МОЩНЫЙ ПРИРОДНЫЙ АНТИОКСИДАНТ ИЗ ВИНОГРАДНЫХ КОСТОЧЕК ДЛЯ ПРОДЛЕНИЯ МОЛОДОСТИ И ЗАЩИТЫ ОРГАНИЗМА ОТ ОКИСЛИТЕЛЬНОГО СТРЕССА.</description>
 </offer>
-<offer id="сироп-из-фиников" available="true">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/сироп-из-фиников</url>
-<price>2959</price>
+<offer id="крем-тяньши" available="true">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/крем-тяньши</url>
+<price>2960</price>
 <currencyId>RUB</currencyId>
 <categoryId>1</categoryId>
-<picture>https://img1.creatium.ru/disk2/9d/18/b6/e61e79ea9e256d06ba8acc6433d2743d93/img_338993_338993.png</picture>
-<name>Сироп из фиников</name>
-<description>● БОГАТЫЙ МИНЕРАЛЬНЫЙ СОСТАВ И ВЫСОКОЕ СОДЕРЖАНИЕ ЦИКЛИЧЕСКОГО АДЕНОЗИНМОНОФОСФАТА ДЕЛАЮТ ПЛОДЫ ФИНИКА УНАБИ ЧРЕЗВЫЧАЙНО ПОЛЕЗНЫМИ. ЕГО ДАЖЕ НАЗЫВАЮТ «КОРОЛЕМ ФРУКТОВ» ● ЭЛИКСИР ИЗ ФИНИКОВ УНАБИ ЯВЛЯЕТСЯ ОТЛИЧНЫМ СРЕДСТВОМ ДЛЯ ПОДНЯТИЯ ЖИЗНЕННОГО ТОНУСА, УКРЕПЛЕНИЯ ИММУНИТЕТА И БОРЬБЫ С НЕГАТИВНЫМИ ПОСЛЕДСТВИЯМИ СТРЕССА И ТЯЖЕЛЫХ НАГРУЗОК ● 50 мл / 8 флаконов</description>
+<picture>https://img1.creatium.ru/disk2/a2/1c/4e/1218af2b5262139b0d8585a80d8656c0d9/orig.jpg</picture>
+<name>Крем увлажняющий</name>
+<description>Для молодости кожи!
+     • Разглаживает морщинки
+     • Делает кожу упругой и эластичной
+     • Усиливает естественную защиту кожи</description>
+</offer>
+<offer id="золотой-браслет-тяньши" available="false">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/золотой-браслет-тяньши</url>
+<price>4399</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://img1.creatium.ru/disk2/6a/5c/e0/65e305e56a6ffdcac43a9126b9af9e4272/7297051120.jpg</picture>
+<name>Браслет Gold титановый магнитный</name>
+<description>Стильный аксессуар и забота о здоровье. Нейтрализует негативное влияние электроприборов и гаджетов на биополе организма. Способствует восстановлению работоспособности и укреплению защитных сил. Помогает при головных болях, скачках давления и мышечных спазмах.</description>
+</offer>
+<offer id="ионный-очиститель" available="true">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/ионный-очиститель</url>
+<price>16905</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://img1.creatium.ru/disk2/37/e8/bd/20962b91d8d85177a9a5637e841cd35597/3497945267083042820_jpg_template_2_shape_2_w_800_h_800_q_80_.webp</picture>
+<name>Очиститель продуктов</name>
+<description>очищает и обеззараживает продукты путем электролиза водопроводной воды с образованием окислителей (кислород, водород, гидроксильные группы). Окислители естественным и безопасным образом разрушают бактерии, токсины, гормоны и другие загрязнения, находящиеся в продуктах.</description>
+</offer>
+<offer id="легкая-голова" available="true">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/легкая-голова</url>
+<price>15729</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://img1.creatium.ru/disk2/fe/d5/a6/41172411b08a9c712f6d8d3014f8a239ad/orig.jpg</picture>
+<name>Расческа</name>
+<description>Высокотехнологичный прибор нового поколения, созданный на стыке знаний традиционной китайской медицины и передовых достижений современной науки. Позиционируемое как удобный и функциональный аксессуар для ежедневного ухода за волосами и кожей головы, устройство применяется для оздоровительных процедур в домашних условиях.</description>
+</offer>
+<offer id="очиститель-воздуха" available="true">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/очиститель-воздуха</url>
+<price>47408</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://img1.creatium.ru/disk2/49/ac/2d/5f19ea6ba4ee2e7bfccf6ff72bc1c6311f/2055254688522354688_png_template_2_shape_2_w_800_h_800_q_80_.webp</picture>
+<name>Очиститель воздуха</name>
+<description>ЛИЧНЫЙ ПРИБОР ДЛЯ ПОДДЕРЖАНИЯ ЗДОРОВЬЯ, ПОВЫШЕНИЯ ИММУНИТЕТА И ОЧИЩЕНИЯ ПОМЕЩЕНИЙ</description>
 </offer>
 <offer id="целебные-капсулы" available="true">
 <url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/целебные-капсулы</url>
@@ -577,14 +469,122 @@
 <name>Целебные капсулы (Икан)</name>
 <description>● ИСТОЧНИК ПРИРОДНЫХ ВЕЩЕСТВ, СПОСОБСТВУЮЩИХ УЛУЧШЕНИЮ АДАПТАЦИИ И ОБЩЕМУ ОЗДОРОВЛЕНИЮ ОРГАНИЗМА ● ЗАРЯЖАЮТ ЭНЕРГИЕЙ И ПОМОГАЮТ УСПЕШНО ПРОТИВОСТОЯТЬ ВОЗДЕЙСТВИЮ РАЗЛИЧНЫХ СТРЕССОРОВ ОКРУЖАЮЩЕЙ СРЕДЫ.</description>
 </offer>
-<offer id="жевательный-кальций" available="true">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/жевательный-кальций</url>
-<price>2961</price>
+<offer id="для-унитаза-тяньши" available="false">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/для-унитаза-тяньши</url>
+<price>441</price>
 <currencyId>RUB</currencyId>
 <categoryId>1</categoryId>
-<picture>https://img1.creatium.ru/disk2/d7/b4/ff/e4668c8f0f2929ca840c789ab2a3b22899/7604715101.jpg</picture>
-<name>Жевательный кальций</name>
-<description>Жевательные кальциевые таблетки – это средство для укрепления здоровья, которое помогает восполнить дефицит кальция в организме, способствует бодрости и повышению тонуса. Эти таблетки также обладают легким мочегонным эффектом, что может быть полезным при определённых состояниях организма.</description>
+<picture>https://img1.creatium.ru/disk2/6b/6f/bb/6b657747d3bfd5bca8b073c61ceac6f5b3/6779605126.jpg</picture>
+<name>Средство для мытья унитаза</name>
+<description>• ГИГИЕНА ДОМАШНЕЙ САНТЕХНИКИ – НЕ СЛИШКОМ ПРИЯТНАЯ, НО ВАЖНАЯ ЧАСТЬ ЗАБОТЫ О ЧИСТОТЕ И УЮТЕ. • ЧТОБЫ УСКОРИТЬ ПРОЦЕСС ПРИДАНИЯ УНИТАЗУ ПЕРВОЗДАННОЙ БЕЛИЗНЫ И СДЕЛАТЬ ХЛОПОТЫ ЛЕГКИМИ И НЕПРИНУЖДЕННЫМИ, ВОСПОЛЬЗУЙТЕСЬ ЭФФЕКТИВНЫМ И БЕЗОПАСНЫМ ЧИСТЯЩИМ СРЕДСТВОМ ДЛЯ УНИТАЗА DICHO • 500 МЛ</description>
+</offer>
+<offer id="лютеин-тяньши" available="true">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/лютеин-тяньши</url>
+<price>604</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://img1.creatium.ru/disk2/44/53/c5/ef9332e2a2d7f3ebe8878920b882ad62c2/7223809723.jpg</picture>
+<name>Антиоксиданты д/глаз</name>
+<description>● МАРМЕЛАДНЫЕ МИШКИ С НАТУРАЛЬНЫМИ АНТИОКСИДАНТАМИ И ЧЕРНИЧНЫМ СОКОМ ДЛЯ СНИЖЕНИЯ УТОМЛЯЕМОСТИ ГЛАЗ И ЗАЩИТЫ ОТ ИЗЛУЧЕНИЯ ЭКРАНОВ КОМПЬЮТЕРОВ И СМАРТФОНОВ. ● 30 пастилок в коробке</description>
+</offer>
+<offer id="кальций-с-витаминами" available="true">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/кальций-с-витаминами</url>
+<price>2089</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://img3.creatium.ru/disk2/5c/79/bb/671811121eb9b50c9b25e5b5950ef744cb/snimok_ekrana_2026_04_21_v_14_49_45.png</picture>
+<name>Кальций с витаминами</name>
+<description>• ЭКСКЛЮЗИВНЫЙ ИСТОЧНИК КАЛЬЦИЯ, УСИЛЕННЫЙ ПИЩЕВЫМИ ВОЛОКНАМИ И НАТУРАЛЬНЫМИ РАСТИТЕЛЬНЫМИ ЭКСТРАКТАМИ • ПОМОГАЕТ КОНТРОЛИРОВАТЬ ВЕС И УРОВЕНЬ САХАРА В КРОВИ</description>
+</offer>
+<offer id="прокладки-тяньши" available="false">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/прокладки-тяньши</url>
+<price>1867</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://img1.creatium.ru/disk2/73/67/33/baf1d3b7be9a83feb622712c706901e5c1/300x300.jpg</picture>
+<name>Набор прокладок "Тяньши"</name>
+<description>Женские гигиенические прокладки Anion-Relax AIRIZ</description>
+</offer>
+<offer id="вэйкан-тяньши" available="true">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/вэйкан-тяньши</url>
+<price>1913</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://img1.creatium.ru/disk2/ac/63/93/0ef7fdc3a91b11638e6b7483fea8326b91/img_338989_338989.png</picture>
+<name>Вэйкан "Тяньши"</name>
+<description>• ПРИРОДНЫЙ КОМПЛЕКС ДЛЯ ПОДДЕРЖАНИЯ ФУНКЦИИ НЕРВНОЙ СИСТЕМЫ НА КЛЕТОЧНОМ УРОВНЕ • ОПТИМАЛЬНОЕ СРЕДСТВО ДЛЯ ПОВЫШЕНИЯ РАБОТОСПОСОБНОСТИ И ВОССТАНОВЛЕНИЯ ПОСЛЕ ТЯЖЕЛЫХ ФИЗИЧЕСКИХ, УМСТВЕННЫХ И ПСИХОЭМОЦИОНАЛЬНЫХ НАГРУЗОК.</description>
+</offer>
+<offer id="чай-тяньши" available="true">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/чай-тяньши</url>
+<price>855</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://img1.creatium.ru/e1/e4/89/0a7068ed7c1d750826cc96042cd971ed8a/6017296048.jpg</picture>
+<name>Чай "Тяньши" антилипидный</name>
+<description>● ЦЕЛЕБНЫЙ НАПИТОК НА ОСНОВЕ ЗЕЛЕНОГО ЧАЯ И ТРАВ, ИСПОЛЬЗУЕМЫХ В ТРАДИЦИОННОЙ КИТАЙСКОЙ МЕДИЦИНЕ ● СПОСОБСТВУЕТ ОЧИЩЕНИЮ ОРГАНИЗМА ОТ ТОКСИНОВ, СНИЖЕНИЮ ВЕСА И НОРМАЛИЗАЦИИ ДАВЛЕНИЯ И ЛИПИДНОГО СПЕКТРА КРОВИ.</description>
+</offer>
+<offer id="глюкозамин-тяньши" available="true">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/глюкозамин-тяньши</url>
+<price>1334</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://img1.creatium.ru/disk2/1f/05/18/bae246f79207ecf089d7769d3cd16fdab8/orig.jpg</picture>
+<name>Глюкозамин TIENS</name>
+<description>Комплексное средство для укрепления, восстановления и защиты суставов и связок. Двигайтесь с удовольствием и без ограничений. 60 капсул по 400 мг</description>
+</offer>
+<offer id="прополис-тяньши" available="true">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/прополис-тяньши</url>
+<price>1319</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://img1.creatium.ru/disk2/93/3e/9f/cbe3f555538581734c5b4f198b5b44e606/8074541627.jpg</picture>
+<name>Прополис "Тяньши"</name>
+<description>• ПРИРОДНОЕ СРЕДСТВО ДЛЯ ЗАБОТЫ О ЗДОРОВЬЕ ПОЛОСТИ РТА И НОСОГЛОТКИ, ПОВЫШЕНИЯ ЗАЩИТЫ ОТ БАКТЕРИЙ И ВИРУСОВ, А ТАКЖЕ ДЛЯ УКРЕПЛЕНИЯ СОСУДОВ.</description>
+</offer>
+<offer id="супер-серен-тяньши" available="true">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/супер-серен-тяньши</url>
+<price>2089</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://img1.creatium.ru/disk2/0f/d1/72/06f10c92e07dbb538992a5650ce482233b/kapsuly_bad_tiens_super_seren_id_54138451_854916405.jpg</picture>
+<name>Супер Серен</name>
+<description>• КОМПЛЕКС ИЗ РАСТЕНИЙ, ИСПОЛЬЗУЮЩИХСЯ В КИТАЙСКОЙ ТРАДИЦИОННОЙ МЕДИЦИНЕ ДЛЯ ПОДДЕРЖАНИЯ ЖЕНСКОГО ЗДОРОВЬЯ И КРАСОТЫ • КАПСУЛЫ «СУПЕР СЕРЕН» СОДЕРЖАТ ФИТОЭСТРОГЕНЫ – ВЕЩЕСТВА, ПОДОБНЫЕ ПО СТРУКТУРЕ И ЭФФЕКТУ ЖЕНСКИМ ПОЛОВЫМ ГОРМОНАМ • ФИТОЭСТРОГЕНЫ МЯГКО И ЕСТЕСТВЕННО ПОДДЕРЖИВАЮТ ОРГАНИЗМ ЖЕНЩИНЫ В ПЕРИОД МЕНОПАУЗЫ.</description>
+</offer>
+<offer id="карблок-тяньши" available="true">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/карблок-тяньши</url>
+<price>2199</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://img1.creatium.ru/disk2/7d/81/5c/df1aae329307bad5de50400db18ea9af1a/9hq.png</picture>
+<name>CarbLock TIENS</name>
+<description>Корректор метаболизма с кордицепсом и рейши. Нормализует углеводный обмен, помогает наладить энергетический баланс, контролировать вес и аппетит.</description>
+</offer>
+<offer id="кальций-общий" available="true">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/кальций-общий</url>
+<price>1498</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://img1.creatium.ru/disk2/35/47/f3/5186dc3bd34382a39a3e504482f4d8e8ac/orig.jpg</picture>
+<name>Кальций с высоким содержанием</name>
+<description>• УНИКАЛЬНЫЙ ИСТОЧНИК КАЛЬЦИЯ С ВЫСОКОЙ СТЕПЕНЬЮ УСВОЯЕМОСТИ.</description>
+</offer>
+<offer id="витамин-д" available="true">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/витамин-д</url>
+<price>737</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://img1.creatium.ru/disk2/b7/83/f4/748f8e44a1c4ecc68db14581f573a9efdb/6894062991.jpg</picture>
+<name>Витамин Д 2000МЕ</name>
+<description>ГЛОТОК СОЛНЦА БЕЗ ЛИШНЕГО УЛЬТРАФИОЛЕТА ● ИСТОЧНИК ЛЕГКОУСВОЯЕМОГО ВИТАМИНА D В ОПТИМАЛЬНОЙ ДОЗИРОВКЕ 2000 МЕ И УДОБНОЙ ФОРМЕ СПРЕЯ ● 30 мл/ 200 доз</description>
+</offer>
+<offer id="сироп-из-фиников" available="true">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/сироп-из-фиников</url>
+<price>2959</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://img1.creatium.ru/disk2/9d/18/b6/e61e79ea9e256d06ba8acc6433d2743d93/img_338993_338993.png</picture>
+<name>Сироп из фиников</name>
+<description>● БОГАТЫЙ МИНЕРАЛЬНЫЙ СОСТАВ И ВЫСОКОЕ СОДЕРЖАНИЕ ЦИКЛИЧЕСКОГО АДЕНОЗИНМОНОФОСФАТА ДЕЛАЮТ ПЛОДЫ ФИНИКА УНАБИ ЧРЕЗВЫЧАЙНО ПОЛЕЗНЫМИ. ЕГО ДАЖЕ НАЗЫВАЮТ «КОРОЛЕМ ФРУКТОВ» ● ЭЛИКСИР ИЗ ФИНИКОВ УНАБИ ЯВЛЯЕТСЯ ОТЛИЧНЫМ СРЕДСТВОМ ДЛЯ ПОДНЯТИЯ ЖИЗНЕННОГО ТОНУСА, УКРЕПЛЕНИЯ ИММУНИТЕТА И БОРЬБЫ С НЕГАТИВНЫМИ ПОСЛЕДСТВИЯМИ СТРЕССА И ТЯЖЕЛЫХ НАГРУЗОК ● 50 мл / 8 флаконов</description>
 </offer>
 <offer id="пребиотик-тяньши" available="true">
 <url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/пребиотик-тяньши</url>
@@ -594,15 +594,6 @@
 <picture>https://img1.creatium.ru/disk2/99/3b/34/b20a42bffe84057eab11de2bd10fd2e95b/img_339209_339209.png</picture>
 <name>Пребиотик "Тяньши"</name>
 <description>• ОПТИМАЛЬНОЕ СРЕДСТВО ДЛЯ ПОДДЕРЖАНИЯ ЗДОРОВОГО БАЛАНСА МИКРОБИОТЫ КИШЕЧНИКА • ПРЕБИОТИК «ТЯНЬШИ» СОДЕРЖИТ ОСОБЫЕ ВЕЩЕСТВА, КОТОРЫМИ ПИТАЮТСЯ ПОЛЕЗНЫЕ МИКРООРГАНИЗМЫ, НАСЕЛЯЮЩИЕ ТОЛСТЫЙ КИШЕЧНИК • БЛАГОДАРЯ ТАКОЙ ПОДДЕРЖКЕ МОЖНО НЕ ТОЛЬКО НАЛАДИТЬ ПИЩЕВАРЕНИЕ, НО И УКРЕПИТЬ ЗАЩИТНЫЕ СИЛЫ ОРГАНИЗМА.</description>
-</offer>
-<offer id="дайджест-тяньши" available="true">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/дайджест-тяньши</url>
-<price>2150</price>
-<currencyId>RUB</currencyId>
-<categoryId>1</categoryId>
-<picture>https://img1.creatium.ru/disk2/e1/b0/01/271af846ee5514fcb9860ff46ac3005204/orig.jpg</picture>
-<name>Дайджест "Тяньши"</name>
-<description>• КОМБИНИРОВАННОЕ СРЕДСТВО, СОДЕРЖАЩЕЕ ПРЕБИОТИКИ И ПРОБИОТИКИ ДЛЯ УЛУЧШЕНИЯ КОЛИЧЕСТВА И КАЧЕСТВА МИКРОБИОТЫ КИШЕЧНИКА. • УДОБНЫЙ И БЫСТРЫЙ СПОСОБ ПОДДЕРЖАТЬ ЗДОРОВЬЕ КИШЕЧНИКА, НАЛАДИТЬ ПИЩЕВАРЕНИЕ, УКРЕПИТЬ ИММУНИТЕТ И ПОЗАБОТИТЬСЯ О КРАСОТЕ КОЖИ.</description>
 </offer>
 <offer id="аминокислоты-детские" available="true">
 <url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/аминокислоты-детские</url>
@@ -629,13 +620,22 @@
 <name>Кальций "Тяньши" (для мозгового кровообращения)</name>
 <description>• СПЕЦИАЛЬНЫЙ КОМПЛЕКС НА ОСНОВЕ УНИКАЛЬНОГО ФЕРМЕНТИРОВАННОГО КОСТНОГО КАЛЬЦИЯ «ТЯНЬШИ» ДЛЯ ПОДДЕРЖАНИЯ ЗДОРОВЬЯ НЕРВНОЙ СИСТЕМЫ, БОРЬБЫ С ПОСЛЕДСТВИЯМИ СТРЕССА И ПЕРЕУТОМЛЕНИЕМ.</description>
 </offer>
-<offer id="слипинг-тяньши" available="true">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/слипинг-тяньши</url>
-<price>1492</price>
+<offer id="селен-тяньши" available="true">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/селен-тяньши</url>
+<price>1391</price>
 <currencyId>RUB</currencyId>
 <categoryId>1</categoryId>
-<picture>https://img1.creatium.ru/disk2/93/e1/6e/bd26b7558a53b0471dd637ca74930ac31e/orig.png</picture>
-<name>Слипинг "Тяньши"</name>
-<description>• МЯГКОЕ РАСТИТЕЛЬНОЕ УСПОКАИВАЮЩЕЕ СРЕДСТВО • ВОССТАНАВЛИВАЕТ РАВНОВЕСИЕ МЕЖДУ ПРОЦЕССАМИ ВОЗБУЖДЕНИЯ И ТОРМОЖЕНИЯ В НЕРВНОЙ СИСТЕМЕ, НОРМАЛИЗУЕТ СОН И ПОМОГАЕТ БОРОТЬСЯ С ПОСЛЕДСТВИЯМИ СТРЕССА.</description>
+<picture>https://img1.creatium.ru/disk2/94/fe/82/ca9486fa94c439e970c16255e615f9e655/orig.jpg</picture>
+<name>Капсулы с селеном</name>
+<description>• СЕЛЕН - НЕЗАМЕНИМЫЙ МИКРОЭЛЕМЕНТ, ЗАДЕЙСТВОВАННЫЙ В РАБОТЕ БОЛЕЕ 30 ФЕРМЕНТОВ В ОРГАНИЗМЕ ЧЕЛОВЕКА • ОСОБЕННО ВАЖЕН СЕЛЕН ДЛЯ ИММУНИТЕТА, НОРМАЛЬНОЙ ФУНКЦИИ ЩИТОВИДНОЙ ЖЕЛЕЗЫ И РЕПРОДУКТИВНОГО ЗДОРОВЬЯ • РЕГУЛЯРНЫЙ ПРИЕМ ДОСТАТОЧНОГО КОЛИЧЕСТВА СЕЛЕНА УКРЕПЛЯЕТ ЗАЩИТУ ОРГАНИЗМА ОТ ОКИСЛИТЕЛЬНОГО СТРЕССА И ПРЕДУПРЕЖДАЕТ ПРЕЖДЕВРЕМЕННОЕ СТАРЕНИЕ.</description>
+</offer>
+<offer id="дайджест-тяньши" available="true">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/дайджест-тяньши</url>
+<price>2150</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://img1.creatium.ru/disk2/e1/b0/01/271af846ee5514fcb9860ff46ac3005204/orig.jpg</picture>
+<name>Дайджест "Тяньши"</name>
+<description>• КОМБИНИРОВАННОЕ СРЕДСТВО, СОДЕРЖАЩЕЕ ПРЕБИОТИКИ И ПРОБИОТИКИ ДЛЯ УЛУЧШЕНИЯ КОЛИЧЕСТВА И КАЧЕСТВА МИКРОБИОТЫ КИШЕЧНИКА. • УДОБНЫЙ И БЫСТРЫЙ СПОСОБ ПОДДЕРЖАТЬ ЗДОРОВЬЕ КИШЕЧНИКА, НАЛАДИТЬ ПИЩЕВАРЕНИЕ, УКРЕПИТЬ ИММУНИТЕТ И ПОЗАБОТИТЬСЯ О КРАСОТЕ КОЖИ.</description>
 </offer>
 </offers></shop></yml_catalog>
