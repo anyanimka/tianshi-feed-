@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-09-01 08:31">
+<yml_catalog date="2026-09-01 14:05">
 <shop>
 <name>Тяньши</name>
 <company>Тяньши</company>
@@ -7,311 +7,41 @@
 <currencies><currency id="RUB" rate="1"/></currencies>
 <categories><category id="1">Тяньши</category></categories>
 <offers>
-<offer id="ресвератрол-тяньши" available="true">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/бад/ресвератрол-тяньши</url>
-<price>3876</price>
+<offer id="сила-жизни-тяньши" available="true">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/бад/сила-жизни-тяньши</url>
+<price>2736</price>
 <currencyId>RUB</currencyId>
 <categoryId>1</categoryId>
-<picture>https://img3.creatium.ru/disk2/76/95/78/cea9ace0f4895e1b71ab73aaf60fbba195/1_banka_resveratrol_tyanshi.webp</picture>
-<name>Капсулы с ресвератролом</name>
-<description>Ресвератрол Тяньши — капсулы с экстрактом виноградных косточек для защиты от окислительного стресса. Производитель заявляет поддержку клеточного долголетия, сердечно-сосудистой и нервной систем.</description>
+<picture>https://img1.creatium.ru/disk2/d6/9e/82/1f91ed50b343bab838e8ba68fbdbdbe00b/7121021442.webp</picture>
+<name>Сила жизни "Тяньши"</name>
+<description>«Сила жизни» Тяньши содержит 100% порошок диких муравьёв с гор Чанбайшань. Производитель позиционирует 150 капсул как источник аминокислот, микроэлементов и других биологически активных веществ для тонуса, обмена веществ и адаптации к нагрузкам.</description>
 </offer>
-<offer id="крем-тяньши" available="true">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/красота/крем-тяньши</url>
-<price>3612</price>
+<offer id="эссенция-тяньши" available="true">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/красота/эссенция-тяньши</url>
+<price>2520</price>
 <currencyId>RUB</currencyId>
 <categoryId>1</categoryId>
-<picture>https://img3.creatium.ru/disk2/54/a4/b4/43f3b5d837d33d03a35bc6a0e0a50c8891/1_banka_krema_krem_tyanshi.webp</picture>
-<name>Крем увлажняющий Celles Tiane</name>
-<description>Увлажняющий крем Тяньши CELLES TIANE завершает ежедневный уход, помогая сохранить мягкость, упругость и комфорт кожи. Формула содержит сквален, витамин E, ферментированный экстракт дрожжей, гиалуронат натрия и комплекс аминокислот.</description>
+<picture>https://img3.creatium.ru/disk2/94/c7/4b/d4c437ebc92e364c54c048561d040cb040/1_flakon_essentsii_essentsiya_tyanshi.webp</picture>
+<name>Эссенция для лица Celles Tiane</name>
+<description>Увлажняющая эссенция CELLES TIANE помогает насытить кожу влагой и поддержать ее гладкость и эластичность. В формуле производитель указывает экстракты морских водорослей и дрожжей, растворимый коллаген, рисовый протеин и комплекс аминокислот.</description>
 </offer>
-<offer id="вэйкан-тяньши" available="true">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/бад/вэйкан-тяньши</url>
-<price>1860</price>
+<offer id="белый-браслет-тяньши" available="false">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/красота/белый-браслет-тяньши</url>
+<price>4800</price>
 <currencyId>RUB</currencyId>
 <categoryId>1</categoryId>
-<picture>https://img3.creatium.ru/disk2/ae/08/fe/c5e562f2489fa4b428176bf766d966caa2/1_banka_veikan_tyanshi.webp</picture>
-<name>Вэйкан "Тяньши"</name>
-<description>Вэйкан Тяньши — комплекс из масла зародышей пшеницы, лецитина и бета-каротина. По заявлению производителя, формула поддерживает нервную систему и клеточные мембраны, помогает легче переносить нагрузки и восстанавливаться.</description>
+<picture>https://img3.creatium.ru/disk2/27/15/30/80749e7857fa50ff682f862eb231bcb913/1_belyi_braslet_belyi_braslet_tyanshi.webp</picture>
+<name>Браслет White титановый магнитный</name>
+<description>Титановый магнитный браслет Тяньши White сочетает белый керамический корпус, контрастные вставки и титановые магниты. Стильный женский аксессуар подходит для длительного ношения; перед использованием ознакомьтесь с рекомендациями и противопоказаниями производителя.</description>
 </offer>
-<offer id="глюкозамин-тяньши" available="true">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/бад/глюкозамин-тяньши</url>
-<price>1638</price>
+<offer id="витамишки" available="true">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/бад/витамишки</url>
+<price>1602</price>
 <currencyId>RUB</currencyId>
 <categoryId>1</categoryId>
-<picture>https://img3.creatium.ru/disk2/2b/88/d2/d82664729d3e6bd5db704b85f7434f457b/1_banka_glyukozamin_tyanshi.webp</picture>
-<name>Глюкозамин TIENS</name>
-<description>Глюкозамин Тяньши объединяет глюкозамин, хондроитин, кальций и коллаген для комплексной поддержки суставов и связок. Производитель связывает формулу с восстановлением хрящевой ткани, уменьшением болезненности и улучшением подвижности.</description>
-</offer>
-<offer id="кальций-с-витаминами" available="true">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/бад/кальций-с-витаминами</url>
-<price>2584</price>
-<currencyId>RUB</currencyId>
-<categoryId>1</categoryId>
-<picture>https://img3.creatium.ru/disk2/26/d5/88/7dab62acc2d5c59f44d6a7090885fb9b66/1_korobka_kaltsii_s_vitaminami.webp</picture>
-<name>Кальций с витаминами</name>
-<description>Кальций с витаминами Тяньши — порошок с кальцием, тыквой, пищевыми волокнами и витаминами. Производитель заявляет высокое усвоение, поддержку костной ткани, аппетита, контроля веса и углеводного обмена.</description>
-</offer>
-<offer id="зубная-паста-тяньши" available="true">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/красота/зубная-паста-тяньши</url>
-<price>748</price>
-<currencyId>RUB</currencyId>
-<categoryId>1</categoryId>
-<picture>https://img3.creatium.ru/disk2/44/fe/bb/5db8defc8731642e28ac51a37aab5ca8cb/1_korobka_tubik_i_zubnaya_shchetka_zubnaya_pasta_tyanshi.webp</picture>
-<name>Зубная паста "Тяньши"</name>
-<description>Зубная паста Тяньши Orecare сочетает очищающую основу с экстрактами сарканды гладкой, жимолости и дикой хризантемы. Подходит для регулярной гигиены полости рта, помогает удалять налет и поддерживать свежесть дыхания.</description>
-</offer>
-<offer id="фруктозаны-тяньши" available="true">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/бад/фруктозаны-тяньши</url>
-<price>816</price>
-<currencyId>RUB</currencyId>
-<categoryId>1</categoryId>
-<picture>https://img3.creatium.ru/disk2/b3/ea/d3/9e26e0af89ab9660216cdbc13486b61be8/1_korobka_fruktozany_tyanshi.webp</picture>
-<name>Сироп из фруктозанов</name>
-<description>Сироп из фруктозанов Тяньши содержит растворимые пищевые волокна из топинамбура и цикория. Производитель позиционирует его для поддержки перистальтики, кишечной микрофлоры, комфортного пищеварения и контроля аппетита.</description>
-</offer>
-<offer id="селен-тяньши" available="true">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/бад/селен-тяньши</url>
-<price>1700</price>
-<currencyId>RUB</currencyId>
-<categoryId>1</categoryId>
-<picture>https://img3.creatium.ru/disk2/60/96/c2/1d789ef86f9b918d97b0d11b6a80b4dd3c/1_banka_selen_tyanshi.webp</picture>
-<name>Капсулы с селеном</name>
-<description>Селен Тяньши — 60 капсул с селенизированным каппа-каррагинаном. Микроэлемент входит в состав селенопротеинов, а производитель связывает комплекс с антиоксидантной защитой, иммунитетом, щитовидной железой и репродуктивным здоровьем.</description>
-</offer>
-<offer id="линчжи-тяньши" available="true">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/бад/линчжи-тяньши</url>
-<price>2850</price>
-<currencyId>RUB</currencyId>
-<categoryId>1</categoryId>
-<picture>https://img3.creatium.ru/disk2/67/e3/88/33e618bc99691419ab6e44b8cfde3edd18/1_banka_linchzhi_tyanshi.webp</picture>
-<name>Линчжи "Тяньши" (Рейши)</name>
-<description>Линчжи Тяньши — комплекс с мицелием ганодермы, шлемником байкальским и женьшенем. Производитель позиционирует формулу для поддержки иммунитета, общего тонуса, адаптации к нагрузкам и антиоксидантной защиты.</description>
-</offer>
-<offer id="одеяло-тяньши" available="false">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/приборы/одеяло-тяньши</url>
-<price>25974</price>
-<currencyId>RUB</currencyId>
-<categoryId>1</categoryId>
-<picture>https://img1.creatium.ru/disk2/db/78/f4/7ae64f48569fae5c8705cbe7625a2c0add/2055178427083685889_jpg_template_2_shape_2_w_800_h_800_q_80_.webp</picture>
-<name>Одеяло "Анион"</name>
-<description>Летнее одеяло Тяньши «Анион» размером 200×230 см выполнено из хлопкового сатина и полиэфирного волокна. Легкая гладкая поверхность рассчитана на комфортный сон без чрезмерно тяжелого утепления.</description>
-</offer>
-<offer id="многофункционалка" available="true">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/чистота/многофункционалка</url>
-<price>624</price>
-<currencyId>RUB</currencyId>
-<categoryId>1</categoryId>
-<picture>https://img3.creatium.ru/disk2/b3/99/6f/92fcdd583ad5ca89c1eabbf9008d64157a/1_butylka_s_bryzgami_vody_mnogofunktsionalka.webp</picture>
-<name>Многофункциональное моющее средство</name>
-<description>Многофункциональное моющее средство DiCHO — концентрат 1 л для влажной уборки полов, кафеля, ванн, стекол и других бытовых поверхностей. Дозировку можно менять под обычную уборку, стойкие загрязнения или ручную стирку.</description>
-</offer>
-<offer id="детский-кальций-тяньши" available="true">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/бад/детский-кальций-тяньши</url>
-<price>2106</price>
-<currencyId>RUB</currencyId>
-<categoryId>1</categoryId>
-<picture>https://img3.creatium.ru/disk2/0a/d7/11/dee7540f8773eaa21aa5124ea521d1798d/1_korobka_detskogo_kaltsiya_tiens.webp</picture>
-<name>Детский кальций "Тяньши" (100г)</name>
-<description>Детский кальций Тяньши — порционный порошок с ферментированным костным кальцием, витаминами A, D3 и C, железом, цинком и таурином. Молочный вкус без добавленного сахара подходит детям от 4 лет.</description>
-</offer>
-<offer id="прокладки-тяньши" available="true">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/красота/прокладки-тяньши</url>
-<price>1800</price>
-<currencyId>RUB</currencyId>
-<categoryId>1</categoryId>
-<picture>https://img3.creatium.ru/disk2/e3/d2/ef/47a87d3b84e133220b754d792b0f18213a/1_paket_nabora_prokladok_prokladki_tyanshi.webp</picture>
-<name>Набор прокладок "Тяньши"</name>
-<description>Прокладки Тяньши Anion-Relax собраны в комплект на разные ситуации: дневная и ночная защита во время цикла, а также ежедневный формат. В набор входят шесть упаковок с индивидуально упакованными изделиями.</description>
-</offer>
-<offer id="витамины-группы-в-тяньши" available="true">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/бад/витамины-группы-в-тяньши</url>
-<price>1638</price>
-<currencyId>RUB</currencyId>
-<categoryId>1</categoryId>
-<picture>https://img3.creatium.ru/disk2/b8/46/fa/94b11ec9d82d767b033dca52ab72aab64d/1_banka_vitaminy_gruppy_v_tyanshi.webp</picture>
-<name>Витамины группы В</name>
-<description>Семь витаминов группы B объединены в комплексе TIENS: B1, B2, B3, B5, B6, B9 и B12. Производитель позиционирует 120 таблеток для поддержки энергетического обмена, нервной системы и работоспособности в периоды нагрузок.</description>
-</offer>
-<offer id="дневные-прокладки" available="true">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/красота/дневные-прокладки</url>
-<price>385</price>
-<currencyId>RUB</currencyId>
-<categoryId>1</categoryId>
-<picture>https://img3.creatium.ru/disk2/7b/4e/85/b51833d02ec9d59559739f137f26f302f4/1_upakovka_dnevnykh_prokladok_dnevnye_prokladki.webp</picture>
-<name>Дневные прокладки</name>
-<description>Дневные прокладки Anion-Relax AiRiZ созданы для надежной защиты и комфорта в течение дня. Ультратонкая многослойная конструкция повторяет контуры тела, а индивидуальная упаковка помогает сохранять изделия чистыми до использования.</description>
-</offer>
-<offer id="пребиотик-тяньши" available="true">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/бад/пребиотик-тяньши</url>
-<price>3276</price>
-<currencyId>RUB</currencyId>
-<categoryId>1</categoryId>
-<picture>https://img3.creatium.ru/disk2/92/db/64/de1d1732f34295550b320c4b0896b6d128/1_korobka_prebiotik_tyanshi.webp</picture>
-<name>Пребиотик "Тяньши"</name>
-<description>Пребиотик Тяньши содержит инулин, галакто- и маннан-олигосахариды и ксилит — питание для полезной микрофлоры кишечника. Производитель заявляет поддержку пищеварения, регулярности, иммунитета и контроля массы тела.</description>
-</offer>
-<offer id="спирулина-тяньши" available="false">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/бад/спирулина-тяньши</url>
-<price>2244</price>
-<currencyId>RUB</currencyId>
-<categoryId>1</categoryId>
-<picture>https://img3.creatium.ru/disk2/50/45/85/d8c79d35757e83274fe133b395ba830cfd/1_banka_spirulina_tyanshi.webp</picture>
-<name>Спирулина в капсулах</name>
-<description>Капсульная спирулина Тяньши сочетает растительный белок, аминокислоты, фикоцианин, бета-каротин, витамины и минералы. Производитель позиционирует продукт для поддержки энергии, мышц, иммунитета и антиоксидантной защиты.</description>
-</offer>
-<offer id="для-посуды-тяньши" available="true">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/чистота/для-посуды-тяньши</url>
-<price>858</price>
-<currencyId>RUB</currencyId>
-<categoryId>1</categoryId>
-<picture>https://img3.creatium.ru/disk2/94/8d/4e/08f54808a151b0e7bab71e837e550a9070/1_butylka_dlya_posudy_tyanshi.webp</picture>
-<name>Средство для мытья посуды</name>
-<description>Средство для мытья посуды DiCHO — концентрат объемом 1 л для стекла, металла, пластмассы, керамики и хрусталя. Формула работает в горячей и холодной воде и рассчитана на разведение по степени загрязнения.</description>
-</offer>
-<offer id="ночные-прокладки" available="true">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/красота/ночные-прокладки</url>
-<price>385</price>
-<currencyId>RUB</currencyId>
-<categoryId>1</categoryId>
-<picture>https://img3.creatium.ru/disk2/8f/5c/a4/d9e116e358db37ba2ed7e919b329f6b33a/1_upakovka_nochnykh_prokladok_nochnye_prokladki.webp</picture>
-<name>Ночные прокладки</name>
-<description>Ночные прокладки Anion-Relax AiRiZ имеют удлиненный формат и рассчитаны на более продолжительную защиту во время сна. В упаковке на изображениях представлено 8 индивидуально упакованных изделий.</description>
-</offer>
-<offer id="хитозан-тяньши" available="true">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/бад/хитозан-тяньши</url>
-<price>2964</price>
-<currencyId>RUB</currencyId>
-<categoryId>1</categoryId>
-<picture>https://img3.creatium.ru/disk2/1f/5d/91/7d6cc10bbcf7487e6aeec2b84636d69852/1_banka_khitozan_tyanshi.webp</picture>
-<name>Хитозан "Тяньши"</name>
-<description>Хитозан Тяньши — источник нерастворимых пищевых волокон из панцирей ракообразных для дополнения ежедневного рациона. В каждой капсуле содержится 150 мг хитозана, в упаковке — 100 капсул. Практичный формат для тех, кто внимательно относится к составу питания.</description>
-</offer>
-<offer id="молочко-тяньши" available="true">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/красота/молочко-тяньши</url>
-<price>1512</price>
-<currencyId>RUB</currencyId>
-<categoryId>1</categoryId>
-<picture>https://img3.creatium.ru/disk2/bf/42/83/8727f332892a56e2b83cb4fc988491ee17/1_tubik_ochishchayushchego_molochka_molochko_tyanshi.webp</picture>
-<name>Молочко для умывания Celles Tiane</name>
-<description>Очищающее молочко CELLES TIANE образует нежную пену, удаляет повседневные загрязнения и остатки макияжа, помогая сохранить мягкость кожи. Формула содержит ферментированный экстракт дрожжей, рисовых отрубей, фукуса и растворимый коллаген.</description>
-</offer>
-<offer id="слипинг-тяньши" available="false">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/бад/слипинг-тяньши</url>
-<price>2001</price>
-<currencyId>RUB</currencyId>
-<categoryId>1</categoryId>
-<picture>https://img3.creatium.ru/disk2/07/01/46/83edb659bab2788a75b5758666241d405f/1_korobka_sliping_tyanshi.webp</picture>
-<name>Слипинг "Тяньши"</name>
-<description>Слипинг Натурал Тяньши — растительный комплекс с эшшольцией, боярышником, пассифлорой и пергой. Производитель связывает мягкую формулу с полноценным сном, уменьшением напряжения и восстановлением после стресса.</description>
-</offer>
-<offer id="ионный-очиститель" available="true">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/приборы/ионный-очиститель</url>
-<price>17940</price>
-<currencyId>RUB</currencyId>
-<categoryId>1</categoryId>
-<picture>https://img1.creatium.ru/disk2/37/e8/bd/20962b91d8d85177a9a5637e841cd35597/3497945267083042820_jpg_template_2_shape_2_w_800_h_800_q_80_.webp</picture>
-<name>Очиститель продуктов TIENS</name>
-<description>Ионный очиститель продуктов Тяньши TQ-D41 обрабатывает продукты, воду и бытовые предметы с помощью электролиза водопроводной воды. Три режима и шесть настроек времени помогают подобрать цикл под конкретную задачу.</description>
-</offer>
-<offer id="витамин-д" available="true">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/бад/витамин-д</url>
-<price>946</price>
-<currencyId>RUB</currencyId>
-<categoryId>1</categoryId>
-<picture>https://img3.creatium.ru/disk2/9f/c9/25/339826d76cdd7738e53a7917a0fafcb531/1_flakon_s_raspylitelem_vitamin_d.webp</picture>
-<name>Витамин Д 2000МЕ</name>
-<description>Витамин D3 Тяньши — масляный спрей с дозировкой 2000 МЕ в одном нажатии. Флакон содержит 200 доз, а MCT-масло служит основой для жирорастворимого витамина и дополняется лёгким лимонным вкусом.</description>
-</offer>
-<offer id="детский-кальций-454" available="true">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/бад/детский-кальций-454</url>
-<price>6270</price>
-<currencyId>RUB</currencyId>
-<categoryId>1</categoryId>
-<picture>https://img3.creatium.ru/disk2/1a/8a/6f/b07f245cc89fbf3d7542dbc53cbad1ee35/1_banka_detskii_kaltsii_454.webp</picture>
-<name>Детский кальций "Тяньши" (454г)</name>
-<description>Детский кальций Тяньши 454 г — молочный порошок для приготовления напитка или добавления в готовое блюдо. Формула содержит ферментированный костный кальций, пищевые волокна, кокосовое масло, яйцо, витамины, цинк, железо и таурин.</description>
-</offer>
-<offer id="ежедневные-прокладки" available="true">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/красота/ежедневные-прокладки</url>
-<price>385</price>
-<currencyId>RUB</currencyId>
-<categoryId>1</categoryId>
-<picture>https://img3.creatium.ru/disk2/05/08/72/f2fada25fdecd99eb07404d6a45f58d61b/1_upakovka_ezhednevnykh_prokladok_ezhednevnye_prokladki.webp</picture>
-<name>Ежедневные прокладки</name>
-<description>Ежедневные прокладки Anion-Relax AiRiZ — тонкий формат для повседневного комфорта и ощущения свежести. Мягкая поверхность, воздухопроницаемая многослойная конструкция и индивидуальная упаковка подходят для активного дня.</description>
-</offer>
-<offer id="для-унитаза-тяньши" available="true">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/чистота/для-унитаза-тяньши</url>
-<price>468</price>
-<currencyId>RUB</currencyId>
-<categoryId>1</categoryId>
-<picture>https://img3.creatium.ru/disk2/13/0c/dd/694dc6d84406cede27d9af4697a1a070a4/1_butylka_ryadom_s_unitazom_dlya_unitaza_tyanshi.webp</picture>
-<name>Средство для мытья унитаза</name>
-<description>Чистящее средство для унитаза DiCHO — гель объемом 500 мл для ухода за сантехникой. Производитель заявляет удаление известкового налета, ржавых потеков, загрязнений и неприятных запахов.</description>
-</offer>
-<offer id="прополис-тяньши" available="true">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/бад/прополис-тяньши</url>
-<price>1488</price>
-<currencyId>RUB</currencyId>
-<categoryId>1</categoryId>
-<picture>https://img3.creatium.ru/disk2/e7/a7/7f/d520bb3e4b0822ba35e8ee870d0ba4cc55/1_korobka_propolis_tyanshi.webp</picture>
-<name>Прополис "Тяньши"</name>
-<description>Прополис Тяньши дополнен витамином C и репешком в удобной жевательной форме. Производитель позиционирует комплекс для ухода за полостью рта и носоглоткой, поддержки дёсен, сосудов и естественной защиты организма.</description>
-</offer>
-<offer id="жевательный-кальций" available="true">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/бад/жевательный-кальций</url>
-<price>2862</price>
-<currencyId>RUB</currencyId>
-<categoryId>1</categoryId>
-<picture>https://img3.creatium.ru/disk2/8c/37/4a/d662d7788a676d1429cd74021b05aadf7e/1_banka_zhevatelnyi_kaltsii.webp</picture>
-<name>Жевательный кальций</name>
-<description>Жевательный кальций Тяньши — 60 таблеток с какао, которые можно разжёвывать или рассасывать. Каждая таблетка содержит 250 мг кальция, а витамин D3 дополняет формулу поддержкой его усвоения.</description>
-</offer>
-<offer id="кордицепс-тяньши" available="true">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/бад/кордицепс-тяньши</url>
-<price>2928</price>
-<currencyId>RUB</currencyId>
-<categoryId>1</categoryId>
-<picture>https://img3.creatium.ru/disk2/3b/9e/8e/bbb06c8245662008c7681cda00a8018198/1_banka_korditseps_tyanshi.webp</picture>
-<name>Кордицепс "Тяньши"</name>
-<description>Кордицепс Тяньши — капсулы с порошком ферментированного мицелия. Производитель связывает формулу с поддержкой энергии, работоспособности, восстановления после нагрузок и защитных функций организма.</description>
-</offer>
-<offer id="секрет-красоты" available="true">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/приборы/секрет-красоты</url>
-<price>23750</price>
-<currencyId>RUB</currencyId>
-<categoryId>1</categoryId>
-<picture>https://img3.creatium.ru/disk2/1f/db/e3/e4d2690de94802716e76cc97131f440ab5/1_kosmeticheskii_pribor_sekret_krasoty.webp</picture>
-<name>Секрет Красоты (Cilvaris) TIENS</name>
-<description>CILVARIS Тяньши — косметический прибор для домашнего ухода за лицом с четырьмя режимами: ультразвуковым CV, радиочастотным RF, микротоковым EMS и автоматическим AUTO. Для процедур производитель рекомендует проводящий омолаживающий гель CILVARIS.</description>
-</offer>
-<offer id="целлюлоза-тяньши" available="true">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/бад/целлюлоза-тяньши</url>
-<price>2139</price>
-<currencyId>RUB</currencyId>
-<categoryId>1</categoryId>
-<picture>https://img3.creatium.ru/disk2/64/8e/ca/760bfe405f5bafb2d94478126053dea06d/1_banka_tsellyuloza_tyanshi.webp</picture>
-<name>Таблетки с целлюлозой</name>
-<description>Жевательная целлюлоза Тяньши сочетает растворимые и нерастворимые пищевые волокна в удобных таблетках. Производитель связывает формулу с регулярной работой кишечника, поддержкой микрофлоры, чувством насыщения и контролем массы тела.</description>
-</offer>
-<offer id="кальций-общий" available="true">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/бад/кальций-общий</url>
-<price>1500</price>
-<currencyId>RUB</currencyId>
-<categoryId>1</categoryId>
-<picture>https://img3.creatium.ru/disk2/25/9d/e9/4597941a6bc1f1565248a41655be9e45ef/1_korobka_kaltsiya_s_vysokim_soderzhaniem_tiens.webp</picture>
-<name>Кальций с высоким содержанием</name>
-<description>Кальций с высоким содержанием TIENS — растворимый ванильно-молочный напиток с ферментированным костным кальцием, витаминами A, C и D. В коробке 10 порционных саше, которые можно разводить водой или добавлять в готовые блюда.</description>
-</offer>
-<offer id="целебные-капсулы" available="true">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/бад/целебные-капсулы</url>
-<price>2700</price>
-<currencyId>RUB</currencyId>
-<categoryId>1</categoryId>
-<picture>https://img3.creatium.ru/disk2/f7/24/ff/1a0782e160950c0d8d49a92e142b1a3d50/1_banka_tselebnye_kapsuly.webp</picture>
-<name>Целебные капсулы (Икан)</name>
-<description>Икан Тяньши — комплекс с гиностеммой, чайными полифенолами, морковью и витамином C. Производитель заявляет поддержку энергии, иммунитета, стрессоустойчивости, восстановления и общего тонуса.</description>
+<picture>https://img3.creatium.ru/disk2/0f/c8/ec/4b555f0d5345d4389d7c1cc23b0025a7c7/1_banka_s_fruktami_i_vitaminami_vitamishki.webp</picture>
+<name>Мультивитамины 3+</name>
+<description>Мультивитаминный комплекс Тяньши 3+ — клубничные пастилки с десятью витаминами. Производитель позиционирует их для поддержки роста, иммунитета, энергии и восстановления детей при умственных и физических нагрузках.</description>
 </offer>
 <offer id="супер-серен-тяньши" available="true">
 <url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/бад/супер-серен-тяньши</url>
@@ -331,87 +61,6 @@
 <name>CarbLock TIENS</name>
 <description>CarbLock Тяньши — грибной комплекс с кордицепсом, рейши, мейтаке, чагой, белой шелковицей и органическим хромом. Производитель позиционирует 60 капсул для поддержки углеводного обмена, энергии, контроля аппетита и массы тела.</description>
 </offer>
-<offer id="кальций-тяньши" available="true">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/бад/кальций-тяньши</url>
-<price>1014</price>
-<currencyId>RUB</currencyId>
-<categoryId>1</categoryId>
-<picture>https://img3.creatium.ru/disk2/a3/27/63/82b3e9a921a47ece6b8cad5157211713dc/1_banka_kaltsiya_tiens_v_kapsulakh.webp</picture>
-<name>Кальций "Тяньши" (для мозгового кровообращения)</name>
-<description>Кальций Тяньши — капсульный комплекс с ферментированным костным кальцием, лецитином, таурином, витаминами C, B1, B12 и фолиевой кислотой. Производитель разработал формулу для поддержки нервной системы, памяти и восстановления после нагрузок.</description>
-</offer>
-<offer id="магний-тяньши" available="true">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/бад/магний-тяньши</url>
-<price>1280</price>
-<currencyId>RUB</currencyId>
-<categoryId>1</categoryId>
-<picture>https://img3.creatium.ru/disk2/fc/6b/f1/eb211c519ba267d0111f82f5a628c890b1/1_banka_magnii_tyanshi.webp</picture>
-<name>Магний B6</name>
-<description>Магний B6 Тяньши — растворимый порошок с 300 мг магния, витамином B6 и калием в одной порции. Производитель заявляет поддержку нервной системы, сердца и мышц при стрессе, утомлении и повышенных нагрузках.</description>
-</offer>
-<offer id="кордицепс-тяньши" available="true">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/бад/кордицепс-тяньши</url>
-<price>2928</price>
-<currencyId>RUB</currencyId>
-<categoryId>1</categoryId>
-<picture>https://img3.creatium.ru/disk2/3b/9e/8e/bbb06c8245662008c7681cda00a8018198/1_banka_korditseps_tyanshi.webp</picture>
-<name>Кордицепс "Тяньши"</name>
-<description>Кордицепс Тяньши — капсулы с порошком ферментированного мицелия. Производитель связывает формулу с поддержкой энергии, работоспособности, восстановления после нагрузок и защитных функций организма.</description>
-</offer>
-<offer id="очиститель-воздуха" available="true">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/приборы/очиститель-воздуха</url>
-<price>50310</price>
-<currencyId>RUB</currencyId>
-<categoryId>1</categoryId>
-<picture>https://img1.creatium.ru/disk2/49/ac/2d/5f19ea6ba4ee2e7bfccf6ff72bc1c6311f/2055254688522354688_png_template_2_shape_2_w_800_h_800_q_80_.webp</picture>
-<name>Очиститель воздуха TIENS</name>
-<description>Очиститель воздуха Тяньши «Био-Анион» сочетает генерацию отрицательных ионов и хлопковый фильтр из активированного угля. Производитель заявляет концентрацию не менее 10 млн анионов/см³ на расстоянии 30 см.</description>
-</offer>
-<offer id="кровь-и-железо" available="true">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/бад/кровь-и-железо</url>
-<price>3021</price>
-<currencyId>RUB</currencyId>
-<categoryId>1</categoryId>
-<picture>https://img3.creatium.ru/disk2/db/65/9b/8d52ad530868a7e57efd15402ecfce82ee/1_banka_krov_i_zhelezo.webp</picture>
-<name>Кровь и Железо "Тяньши"</name>
-<description>Железо Тяньши в капсулах — продукт для дополнения рациона при повышенной потребности в этом микроэлементе. Производитель связывает комплекс с поддержкой уровня гемоглобина, энергетического обмена и общего тонуса.</description>
-</offer>
-<offer id="для-стирки-тяньши" available="true">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/чистота/для-стирки-тяньши</url>
-<price>702</price>
-<currencyId>RUB</currencyId>
-<categoryId>1</categoryId>
-<picture>https://img3.creatium.ru/disk2/4a/43/47/0bb160e4537c0e32a7b550362a254ac4f8/1_butylka_dlya_stirki_tyanshi.webp</picture>
-<name>Средство для стирки</name>
-<description>Концентрированное средство для стирки DiCHO создано для бережного ухода за нижним бельем и деликатными тканями. Формула объемом 1 л помогает удалять загрязнения, легко выполаскивается и расходуется дозированно.</description>
-</offer>
-<offer id="аминокислоты-детские" available="true">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/бад/аминокислоты-детские</url>
-<price>2650</price>
-<currencyId>RUB</currencyId>
-<categoryId>1</categoryId>
-<picture>https://img3.creatium.ru/disk2/be/74/25/16947f88d8017ebd8dea022433868d8011/1_banka_aminokisloty_detskie.webp</picture>
-<name>Аминокислоты для детей</name>
-<description>Детские аминокислоты Тяньши сочетают незаменимые аминокислоты, порию и китайский ямс. Производитель заявляет поддержку роста, белкового и энергетического обмена, иммунитета и умственной работоспособности.</description>
-</offer>
-<offer id="чай-тяньши" available="true">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/бад/чай-тяньши</url>
-<price>1170</price>
-<currencyId>RUB</currencyId>
-<categoryId>1</categoryId>
-<picture>https://img3.creatium.ru/disk2/9a/14/de/5a5896f1ed927f321443eddbc9e16d7e2c/1_korobka_antilipidnogo_chaya_tiens.webp</picture>
-<name>Чай "Тяньши" антилипидный</name>
-<description>Растительный чай Тяньши сочетает зелёный чай, гиностемму, листья лотоса, горец многоцветковый и сенну. Производитель позиционирует антилипидную формулу для поддержки обмена веществ, контроля веса и очищения организма.</description>
-</offer>
-<offer id="кальций-тяньши" available="true">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/бад/кальций-тяньши</url>
-<price>1014</price>
-<currencyId>RUB</currencyId>
-<categoryId>1</categoryId>
-<picture>https://img3.creatium.ru/disk2/a3/27/63/82b3e9a921a47ece6b8cad5157211713dc/1_banka_kaltsiya_tiens_v_kapsulakh.webp</picture>
-<name>Кальций "Тяньши" (для мозгового кровообращения)</name>
-<description>Кальций Тяньши — капсульный комплекс с ферментированным костным кальцием, лецитином, таурином, витаминами C, B1, B12 и фолиевой кислотой. Производитель разработал формулу для поддержки нервной системы, памяти и восстановления после нагрузок.</description>
-</offer>
 <offer id="желе-с-коллагеном" available="true">
 <url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/бад/желе-с-коллагеном</url>
 <price>1428</price>
@@ -421,14 +70,32 @@
 <name>Желе с коллагеном</name>
 <description>Желе с коллагеном Тяньши — порционный комплекс с 2000 мг гидролизата рыбьего коллагена, витамином C и растительными компонентами. Производитель заявляет поддержку упругости кожи, волос, ногтей, костей, связок и собственного синтеза коллагена.</description>
 </offer>
-<offer id="омега-3-тяньши" available="true">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/бад/омега-3-тяньши</url>
-<price>2340</price>
+<offer id="секрет-красоты" available="true">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/приборы/секрет-красоты</url>
+<price>23750</price>
 <currencyId>RUB</currencyId>
 <categoryId>1</categoryId>
-<picture>https://img3.creatium.ru/disk2/ac/7c/8b/d49f3b0af406ce5a9d6266b26db730c40c/1_banka_omega_3_tyanshi.webp</picture>
-<name>Омега-3 30%</name>
-<description>Формула Тяньши с 30% омега-3 дополнена облепиховым маслом, витамином E и природными антиоксидантами. Производитель заявляет поддержку нервной системы, памяти, внимания, стрессоустойчивости и обновления кожи.</description>
+<picture>https://img3.creatium.ru/disk2/1f/db/e3/e4d2690de94802716e76cc97131f440ab5/1_kosmeticheskii_pribor_sekret_krasoty.webp</picture>
+<name>Секрет Красоты (Cilvaris) TIENS</name>
+<description>CILVARIS Тяньши — косметический прибор для домашнего ухода за лицом с четырьмя режимами: ультразвуковым CV, радиочастотным RF, микротоковым EMS и автоматическим AUTO. Для процедур производитель рекомендует проводящий омолаживающий гель CILVARIS.</description>
+</offer>
+<offer id="вэйкан-тяньши" available="true">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/бад/вэйкан-тяньши</url>
+<price>1860</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://img3.creatium.ru/disk2/ae/08/fe/c5e562f2489fa4b428176bf766d966caa2/1_banka_veikan_tyanshi.webp</picture>
+<name>Вэйкан "Тяньши"</name>
+<description>Вэйкан Тяньши — комплекс из масла зародышей пшеницы, лецитина и бета-каротина. По заявлению производителя, формула поддерживает нервную систему и клеточные мембраны, помогает легче переносить нагрузки и восстанавливаться.</description>
+</offer>
+<offer id="фруктозаны-тяньши" available="true">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/бад/фруктозаны-тяньши</url>
+<price>816</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://img3.creatium.ru/disk2/b3/ea/d3/9e26e0af89ab9660216cdbc13486b61be8/1_korobka_fruktozany_tyanshi.webp</picture>
+<name>Сироп из фруктозанов</name>
+<description>Сироп из фруктозанов Тяньши содержит растворимые пищевые волокна из топинамбура и цикория. Производитель позиционирует его для поддержки перистальтики, кишечной микрофлоры, комфортного пищеварения и контроля аппетита.</description>
 </offer>
 <offer id="спирулина-тяньши" available="false">
 <url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/бад/спирулина-тяньши</url>
@@ -439,149 +106,14 @@
 <name>Спирулина в капсулах</name>
 <description>Капсульная спирулина Тяньши сочетает растительный белок, аминокислоты, фикоцианин, бета-каротин, витамины и минералы. Производитель позиционирует продукт для поддержки энергии, мышц, иммунитета и антиоксидантной защиты.</description>
 </offer>
-<offer id="золотой-браслет-тяньши" available="true">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/красота/золотой-браслет-тяньши</url>
-<price>4800</price>
+<offer id="прокладки-тяньши" available="true">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/красота/прокладки-тяньши</url>
+<price>1800</price>
 <currencyId>RUB</currencyId>
 <categoryId>1</categoryId>
-<picture>https://img3.creatium.ru/disk2/99/a2/05/05877dce775789681e305125db02653325/1_zolotoi_braslet_zolotoi_braslet_tyanshi.webp</picture>
-<name>Браслет Gold титановый магнитный</name>
-<description>Магнитный браслет Тяньши Gold сочетает золотистые керамические звенья, титановые вставки и фирменную застежку TIENS. Выразительный аксессуар подходит тем, кто предпочитает теплый металлический оттенок.</description>
-</offer>
-<offer id="эссенция-тяньши" available="true">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/красота/эссенция-тяньши</url>
-<price>2520</price>
-<currencyId>RUB</currencyId>
-<categoryId>1</categoryId>
-<picture>https://img3.creatium.ru/disk2/94/c7/4b/d4c437ebc92e364c54c048561d040cb040/1_flakon_essentsii_essentsiya_tyanshi.webp</picture>
-<name>Эссенция для лица Celles Tiane</name>
-<description>Увлажняющая эссенция CELLES TIANE помогает насытить кожу влагой и поддержать ее гладкость и эластичность. В формуле производитель указывает экстракты морских водорослей и дрожжей, растворимый коллаген, рисовый протеин и комплекс аминокислот.</description>
-</offer>
-<offer id="сила-жизни-тяньши" available="true">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/бад/сила-жизни-тяньши</url>
-<price>2736</price>
-<currencyId>RUB</currencyId>
-<categoryId>1</categoryId>
-<picture>https://img1.creatium.ru/disk2/d6/9e/82/1f91ed50b343bab838e8ba68fbdbdbe00b/7121021442.webp</picture>
-<name>Сила жизни "Тяньши"</name>
-<description>«Сила жизни» Тяньши содержит 100% порошок диких муравьёв с гор Чанбайшань. Производитель позиционирует 150 капсул как источник аминокислот, микроэлементов и других биологически активных веществ для тонуса, обмена веществ и адаптации к нагрузкам.</description>
-</offer>
-<offer id="кордикофе-тяньши" available="true">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/бад/кордикофе-тяньши</url>
-<price>1445</price>
-<currencyId>RUB</currencyId>
-<categoryId>1</categoryId>
-<picture>https://img3.creatium.ru/disk2/00/bb/8c/243be9c18554d4b170f54487c4ce553c5e/1_korobka_kordikofe_tyanshi.webp</picture>
-<name>Кордикофе TIENS</name>
-<description>Кордикофе Тяньши — мягкий растворимый кофейный напиток из арабики с кордицепсом и обезжиренным молоком. Двенадцать саше сохраняют аромат и помогают быстро приготовить чашку белого кофе для бодрого начала дня.</description>
-</offer>
-<offer id="белый-браслет-тяньши" available="false">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/красота/белый-браслет-тяньши</url>
-<price>4800</price>
-<currencyId>RUB</currencyId>
-<categoryId>1</categoryId>
-<picture>https://img3.creatium.ru/disk2/27/15/30/80749e7857fa50ff682f862eb231bcb913/1_belyi_braslet_belyi_braslet_tyanshi.webp</picture>
-<name>Браслет White титановый магнитный</name>
-<description>Титановый магнитный браслет Тяньши White сочетает белый керамический корпус, контрастные вставки и титановые магниты. Стильный женский аксессуар подходит для длительного ношения; перед использованием ознакомьтесь с рекомендациями и противопоказаниями производителя.</description>
-</offer>
-<offer id="тиенс-лайф" available="true">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/приборы/тиенс-лайф</url>
-<price>7600</price>
-<currencyId>RUB</currencyId>
-<categoryId>1</categoryId>
-<picture>https://img3.creatium.ru/disk2/e6/55/2e/d43073458a129b6da1e1933ca16d31e45e/1_elektromassazher_tiens_laif.webp</picture>
-<name>Tiens-Life Тяньши</name>
-<description>Tiens-Life Тяньши — портативный электромассажный прибор, который сочетает зондирование акупунктурных точек и регулируемое микротоковое воздействие без прокалывания кожи. Перед применением необходимо изучить инструкцию и противопоказания.</description>
-</offer>
-<offer id="цинк-тяньши" available="true">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/бад/цинк-тяньши</url>
-<price>748</price>
-<currencyId>RUB</currencyId>
-<categoryId>1</categoryId>
-<picture>https://img3.creatium.ru/disk2/af/1f/11/79a3ef77a34739acecf03cc421c201107e/1_banka_kapsul_s_tsinkom_tiens.webp</picture>
-<name>Капсулы с цинком</name>
-<description>Цинк Тяньши — 60 капсул с лактатом цинка для взрослых и детей от 5 лет. Производитель позиционирует добавку для восполнения цинка и поддержки иммунитета, кожи, зрения, нервной и репродуктивной систем.</description>
-</offer>
-<offer id="лютеин-тяньши" available="true">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/бад/лютеин-тяньши</url>
-<price>935</price>
-<currencyId>RUB</currencyId>
-<categoryId>1</categoryId>
-<picture>https://img3.creatium.ru/disk2/db/c2/f4/a88a268f45056bdc53c7c979ec061d23c5/1_korobka_lyutein_tyanshi.webp</picture>
-<name>Антиоксиданты д/глаз</name>
-<description>Лютеин Тяньши для глаз — мармеладные пастилки с лютеином, зеаксантином, астаксантином и черничным соком. Производитель заявляет снижение утомляемости глаз и защиту от ультрафиолета и синего света экранов.</description>
-</offer>
-<offer id="наматрасник-тяньши" available="true">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/приборы/наматрасник-тяньши</url>
-<price>31850</price>
-<currencyId>RUB</currencyId>
-<categoryId>1</categoryId>
-<picture>https://img3.creatium.ru/disk2/0b/5b/d3/74075f8399eafcb7fe22c0936b3daacc94/1_slozhennyi_namatrasnik_namatrasnik_tyanshi.webp</picture>
-<name>Наматрасник "Здоровый сон" TIENS</name>
-<description>Наматрасник Тяньши «Здоровый сон» размером 178×198 см сочетает хлопок, бамбуковое волокно, жаккардовый трикотаж и анионный акупунктурный слой. В комплект входит чехол для хранения и перевозки.</description>
-</offer>
-<offer id="дайджест-тяньши" available="true">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/бад/дайджест-тяньши</url>
-<price>2958</price>
-<currencyId>RUB</currencyId>
-<categoryId>1</categoryId>
-<picture>https://img3.creatium.ru/disk2/ba/f1/21/79005f36acda0440d6c1350b1bf9c5c564/1_korobka_daidzhest_tyanshi.webp</picture>
-<name>Дайджест "Тяньши"</name>
-<description>Дайджест Тяньши — комплекс пробиотиков, пребиотиков и растительных пищевых волокон для поддержки микробиоты и комфортного пищеварения. В упаковке 90 жевательных таблеток по 400 мг; формула включает инулин, яблочный пектин, семена льна, анис, бифидо- и лактобактерии.</description>
-</offer>
-<offer id="омега3" available="true">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/бад/омега3</url>
-<price>2670</price>
-<currencyId>RUB</currencyId>
-<categoryId>1</categoryId>
-<picture>https://img3.creatium.ru/disk2/fd/1b/99/88085aa30d4d3895d6e06b12b62c9f3a38/1_korobka_omega3.webp</picture>
-<name>Омега-3 90%</name>
-<description>Омега-3 Тяньши 90% — концентрат жирных кислот из жира северных рыб. Производитель заявляет поддержку липидного обмена, сердца и сосудов, клеточных мембран и противовоспалительного баланса организма.</description>
-</offer>
-<offer id="черный-браслет-тяньши" available="false">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/красота/черный-браслет-тяньши</url>
-<price>4800</price>
-<currencyId>RUB</currencyId>
-<categoryId>1</categoryId>
-<picture>https://img3.creatium.ru/disk2/df/ef/ed/596f4821481e8932bffbea3a2505942046/1_chernyi_braslet_i_korobka_chernyi_braslet_tyanshi.webp</picture>
-<name>Браслет Black титановый магнитный</name>
-<description>Титановый магнитный браслет Тяньши Black — лаконичный аксессуар с черными керамическими звеньями, контрастными вставками и встроенными магнитами. Модель подходит к сдержанному повседневному стилю и поставляется в фирменном футляре.</description>
-</offer>
-<offer id="витамины-для-глаз-тяньши" available="true">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/бад/витамины-для-глаз-тяньши</url>
-<price>2856</price>
-<currencyId>RUB</currencyId>
-<categoryId>1</categoryId>
-<picture>https://img3.creatium.ru/disk2/00/ca/95/245669a56cc888d5fbf8431e8585f01447/1_banka_vitaminy_dlya_glaz_tyanshi.webp</picture>
-<name>Витамины для глаз</name>
-<description>Витамины для глаз Тяньши объединяют лютеин, чернику, цинк и витамины A, B1 и B2. Производитель заявляет поддержку остроты зрения, адаптации к слабому освещению и защиту глаз при регулярной зрительной нагрузке.</description>
-</offer>
-<offer id="витамишки" available="true">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/бад/витамишки</url>
-<price>1602</price>
-<currencyId>RUB</currencyId>
-<categoryId>1</categoryId>
-<picture>https://img3.creatium.ru/disk2/0f/c8/ec/4b555f0d5345d4389d7c1cc23b0025a7c7/1_banka_s_fruktami_i_vitaminami_vitamishki.webp</picture>
-<name>Мультивитамины 3+</name>
-<description>Мультивитаминный комплекс Тяньши 3+ — клубничные пастилки с десятью витаминами. Производитель позиционирует их для поддержки роста, иммунитета, энергии и восстановления детей при умственных и физических нагрузках.</description>
-</offer>
-<offer id="омега11" available="true">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/бад/омега11</url>
-<price>3034</price>
-<currencyId>RUB</currencyId>
-<categoryId>1</categoryId>
-<picture>https://img3.creatium.ru/disk2/9c/18/cb/91c7d817ab8422858e17f8cf0c26353de3/1_banka_omega11.webp</picture>
-<name>Omega-11 / Омега-3</name>
-<description>Омега-11 Тяньши — комплекс с цетолеиновой кислотой, Омега-3 и витаминами A, D3 и E. Производитель позиционирует формулу CET03 для поддержки сердца, мозга, зрения, суставов, кожи и иммунной системы.</description>
-</offer>
-<offer id="легкая-голова" available="true">
-<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/приборы/легкая-голова</url>
-<price>16692</price>
-<currencyId>RUB</currencyId>
-<categoryId>1</categoryId>
-<picture>https://img3.creatium.ru/disk2/37/51/23/bd049daaa44455773c4bbe920111f6e1e9/1_elektricheskaya_rascheska_legkaya_golova.webp</picture>
-<name>Массажер "Легкая голова"</name>
-<description>Расческа «Легкая голова» Тяньши TQ-Z40 сочетает контактный массаж, вибрацию, микротоки, красный и синий свет, а также генерацию отрицательных ионов. Компактный прибор подходит для кожи головы и других доступных зон тела.</description>
+<picture>https://img3.creatium.ru/disk2/e3/d2/ef/47a87d3b84e133220b754d792b0f18213a/1_paket_nabora_prokladok_prokladki_tyanshi.webp</picture>
+<name>Набор прокладок "Тяньши"</name>
+<description>Прокладки Тяньши Anion-Relax собраны в комплект на разные ситуации: дневная и ночная защита во время цикла, а также ежедневный формат. В набор входят шесть упаковок с индивидуально упакованными изделиями.</description>
 </offer>
 <offer id="фолиевая-тяньши" available="false">
 <url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/бад/фолиевая-тяньши</url>
@@ -592,6 +124,105 @@
 <name>Фолиевая с железом</name>
 <description>Фолиевая кислота с железом Тяньши сочетает легкоусвояемый фумарат железа и фолиевую кислоту. Производитель позиционирует 120 таблеток для поддержки кроветворения, уровня железа, энергии и нормального снабжения тканей кислородом.</description>
 </offer>
+<offer id="для-стирки-тяньши" available="true">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/чистота/для-стирки-тяньши</url>
+<price>702</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://img3.creatium.ru/disk2/4a/43/47/0bb160e4537c0e32a7b550362a254ac4f8/1_butylka_dlya_stirki_tyanshi.webp</picture>
+<name>Средство для стирки</name>
+<description>Концентрированное средство для стирки DiCHO создано для бережного ухода за нижним бельем и деликатными тканями. Формула объемом 1 л помогает удалять загрязнения, легко выполаскивается и расходуется дозированно.</description>
+</offer>
+<offer id="слипинг-тяньши" available="false">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/бад/слипинг-тяньши</url>
+<price>2001</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://img3.creatium.ru/disk2/07/01/46/83edb659bab2788a75b5758666241d405f/1_korobka_sliping_tyanshi.webp</picture>
+<name>Слипинг "Тяньши"</name>
+<description>Слипинг Натурал Тяньши — растительный комплекс с эшшольцией, боярышником, пассифлорой и пергой. Производитель связывает мягкую формулу с полноценным сном, уменьшением напряжения и восстановлением после стресса.</description>
+</offer>
+<offer id="кордицепс-тяньши" available="true">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/бад/кордицепс-тяньши</url>
+<price>2928</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://img3.creatium.ru/disk2/3b/9e/8e/bbb06c8245662008c7681cda00a8018198/1_banka_korditseps_tyanshi.webp</picture>
+<name>Кордицепс "Тяньши"</name>
+<description>Кордицепс Тяньши — капсулы с порошком ферментированного мицелия. Производитель связывает формулу с поддержкой энергии, работоспособности, восстановления после нагрузок и защитных функций организма.</description>
+</offer>
+<offer id="наматрасник-тяньши" available="true">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/приборы/наматрасник-тяньши</url>
+<price>31850</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://img3.creatium.ru/disk2/0b/5b/d3/74075f8399eafcb7fe22c0936b3daacc94/1_slozhennyi_namatrasnik_namatrasnik_tyanshi.webp</picture>
+<name>Наматрасник "Здоровый сон" TIENS</name>
+<description>Наматрасник Тяньши «Здоровый сон» размером 178×198 см сочетает хлопок, бамбуковое волокно, жаккардовый трикотаж и анионный акупунктурный слой. В комплект входит чехол для хранения и перевозки.</description>
+</offer>
+<offer id="кальций-тяньши" available="true">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/бад/кальций-тяньши</url>
+<price>1014</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://img3.creatium.ru/disk2/a3/27/63/82b3e9a921a47ece6b8cad5157211713dc/1_banka_kaltsiya_tiens_v_kapsulakh.webp</picture>
+<name>Кальций "Тяньши" (для мозгового кровообращения)</name>
+<description>Кальций Тяньши — капсульный комплекс с ферментированным костным кальцием, лецитином, таурином, витаминами C, B1, B12 и фолиевой кислотой. Производитель разработал формулу для поддержки нервной системы, памяти и восстановления после нагрузок.</description>
+</offer>
+<offer id="ночные-прокладки" available="true">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/красота/ночные-прокладки</url>
+<price>385</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://img3.creatium.ru/disk2/8f/5c/a4/d9e116e358db37ba2ed7e919b329f6b33a/1_upakovka_nochnykh_prokladok_nochnye_prokladki.webp</picture>
+<name>Ночные прокладки</name>
+<description>Ночные прокладки Anion-Relax AiRiZ имеют удлиненный формат и рассчитаны на более продолжительную защиту во время сна. В упаковке на изображениях представлено 8 индивидуально упакованных изделий.</description>
+</offer>
+<offer id="целлюлоза-тяньши" available="true">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/бад/целлюлоза-тяньши</url>
+<price>2139</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://img3.creatium.ru/disk2/64/8e/ca/760bfe405f5bafb2d94478126053dea06d/1_banka_tsellyuloza_tyanshi.webp</picture>
+<name>Таблетки с целлюлозой</name>
+<description>Жевательная целлюлоза Тяньши сочетает растворимые и нерастворимые пищевые волокна в удобных таблетках. Производитель связывает формулу с регулярной работой кишечника, поддержкой микрофлоры, чувством насыщения и контролем массы тела.</description>
+</offer>
+<offer id="линчжи-тяньши" available="true">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/бад/линчжи-тяньши</url>
+<price>2850</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://img3.creatium.ru/disk2/67/e3/88/33e618bc99691419ab6e44b8cfde3edd18/1_banka_linchzhi_tyanshi.webp</picture>
+<name>Линчжи "Тяньши" (Рейши)</name>
+<description>Линчжи Тяньши — комплекс с мицелием ганодермы, шлемником байкальским и женьшенем. Производитель позиционирует формулу для поддержки иммунитета, общего тонуса, адаптации к нагрузкам и антиоксидантной защиты.</description>
+</offer>
+<offer id="витамины-для-глаз-тяньши" available="true">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/бад/витамины-для-глаз-тяньши</url>
+<price>2856</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://img3.creatium.ru/disk2/00/ca/95/245669a56cc888d5fbf8431e8585f01447/1_banka_vitaminy_dlya_glaz_tyanshi.webp</picture>
+<name>Витамины для глаз</name>
+<description>Витамины для глаз Тяньши объединяют лютеин, чернику, цинк и витамины A, B1 и B2. Производитель заявляет поддержку остроты зрения, адаптации к слабому освещению и защиту глаз при регулярной зрительной нагрузке.</description>
+</offer>
+<offer id="лютеин-тяньши" available="true">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/бад/лютеин-тяньши</url>
+<price>935</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://img3.creatium.ru/disk2/db/c2/f4/a88a268f45056bdc53c7c979ec061d23c5/1_korobka_lyutein_tyanshi.webp</picture>
+<name>Антиоксиданты д/глаз</name>
+<description>Лютеин Тяньши для глаз — мармеладные пастилки с лютеином, зеаксантином, астаксантином и черничным соком. Производитель заявляет снижение утомляемости глаз и защиту от ультрафиолета и синего света экранов.</description>
+</offer>
+<offer id="детский-кальций-тяньши" available="true">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/бад/детский-кальций-тяньши</url>
+<price>2106</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://img3.creatium.ru/disk2/0a/d7/11/dee7540f8773eaa21aa5124ea521d1798d/1_korobka_detskogo_kaltsiya_tiens.webp</picture>
+<name>Детский кальций "Тяньши" (100г)</name>
+<description>Детский кальций Тяньши — порционный порошок с ферментированным костным кальцием, витаминами A, D3 и C, железом, цинком и таурином. Молочный вкус без добавленного сахара подходит детям от 4 лет.</description>
+</offer>
 <offer id="сироп-из-фиников" available="true">
 <url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/бад/сироп-из-фиников</url>
 <price>2993</price>
@@ -600,5 +231,374 @@
 <picture>https://img3.creatium.ru/disk2/f8/5b/fa/8268012d11fee2bd11dc3f038d5b81bd04/1_korobka_sirop_iz_finikov.webp</picture>
 <name>Сироп из фиников</name>
 <description>Эликсир из фиников унаби Тяньши — концентрированный сок с приятным кисло-сладким вкусом. Производитель выделяет высокое содержание природного витамина C и цАМФ и связывает продукт с энергией, иммунной защитой, кроветворением и здоровым сном.</description>
+</offer>
+<offer id="зубная-паста-тяньши" available="true">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/красота/зубная-паста-тяньши</url>
+<price>748</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://img3.creatium.ru/disk2/44/fe/bb/5db8defc8731642e28ac51a37aab5ca8cb/1_korobka_tubik_i_zubnaya_shchetka_zubnaya_pasta_tyanshi.webp</picture>
+<name>Зубная паста "Тяньши"</name>
+<description>Зубная паста Тяньши Orecare сочетает очищающую основу с экстрактами сарканды гладкой, жимолости и дикой хризантемы. Подходит для регулярной гигиены полости рта, помогает удалять налет и поддерживать свежесть дыхания.</description>
+</offer>
+<offer id="молочко-тяньши" available="true">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/красота/молочко-тяньши</url>
+<price>1512</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://img3.creatium.ru/disk2/bf/42/83/8727f332892a56e2b83cb4fc988491ee17/1_tubik_ochishchayushchego_molochka_molochko_tyanshi.webp</picture>
+<name>Молочко для умывания Celles Tiane</name>
+<description>Очищающее молочко CELLES TIANE образует нежную пену, удаляет повседневные загрязнения и остатки макияжа, помогая сохранить мягкость кожи. Формула содержит ферментированный экстракт дрожжей, рисовых отрубей, фукуса и растворимый коллаген.</description>
+</offer>
+<offer id="ресвератрол-тяньши" available="true">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/бад/ресвератрол-тяньши</url>
+<price>3876</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://img3.creatium.ru/disk2/76/95/78/cea9ace0f4895e1b71ab73aaf60fbba195/1_banka_resveratrol_tyanshi.webp</picture>
+<name>Капсулы с ресвератролом</name>
+<description>Ресвератрол Тяньши — капсулы с экстрактом виноградных косточек для защиты от окислительного стресса. Производитель заявляет поддержку клеточного долголетия, сердечно-сосудистой и нервной систем.</description>
+</offer>
+<offer id="аминокислоты-детские" available="true">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/бад/аминокислоты-детские</url>
+<price>2650</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://img3.creatium.ru/disk2/be/74/25/16947f88d8017ebd8dea022433868d8011/1_banka_aminokisloty_detskie.webp</picture>
+<name>Аминокислоты для детей</name>
+<description>Детские аминокислоты Тяньши сочетают незаменимые аминокислоты, порию и китайский ямс. Производитель заявляет поддержку роста, белкового и энергетического обмена, иммунитета и умственной работоспособности.</description>
+</offer>
+<offer id="многофункционалка" available="true">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/чистота/многофункционалка</url>
+<price>624</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://img3.creatium.ru/disk2/b3/99/6f/92fcdd583ad5ca89c1eabbf9008d64157a/1_butylka_s_bryzgami_vody_mnogofunktsionalka.webp</picture>
+<name>Многофункциональное моющее средство</name>
+<description>Многофункциональное моющее средство DiCHO — концентрат 1 л для влажной уборки полов, кафеля, ванн, стекол и других бытовых поверхностей. Дозировку можно менять под обычную уборку, стойкие загрязнения или ручную стирку.</description>
+</offer>
+<offer id="дайджест-тяньши" available="true">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/бад/дайджест-тяньши</url>
+<price>2958</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://img3.creatium.ru/disk2/ba/f1/21/79005f36acda0440d6c1350b1bf9c5c564/1_korobka_daidzhest_tyanshi.webp</picture>
+<name>Дайджест "Тяньши"</name>
+<description>Дайджест Тяньши — комплекс пробиотиков, пребиотиков и растительных пищевых волокон для поддержки микробиоты и комфортного пищеварения. В упаковке 90 жевательных таблеток по 400 мг; формула включает инулин, яблочный пектин, семена льна, анис, бифидо- и лактобактерии.</description>
+</offer>
+<offer id="детский-кальций-454" available="true">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/бад/детский-кальций-454</url>
+<price>6270</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://img3.creatium.ru/disk2/1a/8a/6f/b07f245cc89fbf3d7542dbc53cbad1ee35/1_banka_detskii_kaltsii_454.webp</picture>
+<name>Детский кальций "Тяньши" (454г)</name>
+<description>Детский кальций Тяньши 454 г — молочный порошок для приготовления напитка или добавления в готовое блюдо. Формула содержит ферментированный костный кальций, пищевые волокна, кокосовое масло, яйцо, витамины, цинк, железо и таурин.</description>
+</offer>
+<offer id="золотой-браслет-тяньши" available="true">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/красота/золотой-браслет-тяньши</url>
+<price>4800</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://img3.creatium.ru/disk2/99/a2/05/05877dce775789681e305125db02653325/1_zolotoi_braslet_zolotoi_braslet_tyanshi.webp</picture>
+<name>Браслет Gold титановый магнитный</name>
+<description>Магнитный браслет Тяньши Gold сочетает золотистые керамические звенья, титановые вставки и фирменную застежку TIENS. Выразительный аксессуар подходит тем, кто предпочитает теплый металлический оттенок.</description>
+</offer>
+<offer id="черный-браслет-тяньши" available="false">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/красота/черный-браслет-тяньши</url>
+<price>4800</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://img3.creatium.ru/disk2/df/ef/ed/596f4821481e8932bffbea3a2505942046/1_chernyi_braslet_i_korobka_chernyi_braslet_tyanshi.webp</picture>
+<name>Браслет Black титановый магнитный</name>
+<description>Титановый магнитный браслет Тяньши Black — лаконичный аксессуар с черными керамическими звеньями, контрастными вставками и встроенными магнитами. Модель подходит к сдержанному повседневному стилю и поставляется в фирменном футляре.</description>
+</offer>
+<offer id="спирулина-тяньши" available="false">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/бад/спирулина-тяньши</url>
+<price>2244</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://img3.creatium.ru/disk2/50/45/85/d8c79d35757e83274fe133b395ba830cfd/1_banka_spirulina_tyanshi.webp</picture>
+<name>Спирулина в капсулах</name>
+<description>Капсульная спирулина Тяньши сочетает растительный белок, аминокислоты, фикоцианин, бета-каротин, витамины и минералы. Производитель позиционирует продукт для поддержки энергии, мышц, иммунитета и антиоксидантной защиты.</description>
+</offer>
+<offer id="цинк-тяньши" available="true">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/бад/цинк-тяньши</url>
+<price>748</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://img3.creatium.ru/disk2/af/1f/11/79a3ef77a34739acecf03cc421c201107e/1_banka_kapsul_s_tsinkom_tiens.webp</picture>
+<name>Капсулы с цинком</name>
+<description>Цинк Тяньши — 60 капсул с лактатом цинка для взрослых и детей от 5 лет. Производитель позиционирует добавку для восполнения цинка и поддержки иммунитета, кожи, зрения, нервной и репродуктивной систем.</description>
+</offer>
+<offer id="витамины-группы-в-тяньши" available="true">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/бад/витамины-группы-в-тяньши</url>
+<price>1638</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://img3.creatium.ru/disk2/b8/46/fa/94b11ec9d82d767b033dca52ab72aab64d/1_banka_vitaminy_gruppy_v_tyanshi.webp</picture>
+<name>Витамины группы В</name>
+<description>Семь витаминов группы B объединены в комплексе TIENS: B1, B2, B3, B5, B6, B9 и B12. Производитель позиционирует 120 таблеток для поддержки энергетического обмена, нервной системы и работоспособности в периоды нагрузок.</description>
+</offer>
+<offer id="для-унитаза-тяньши" available="true">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/чистота/для-унитаза-тяньши</url>
+<price>468</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://img3.creatium.ru/disk2/13/0c/dd/694dc6d84406cede27d9af4697a1a070a4/1_butylka_ryadom_s_unitazom_dlya_unitaza_tyanshi.webp</picture>
+<name>Средство для мытья унитаза</name>
+<description>Чистящее средство для унитаза DiCHO — гель объемом 500 мл для ухода за сантехникой. Производитель заявляет удаление известкового налета, ржавых потеков, загрязнений и неприятных запахов.</description>
+</offer>
+<offer id="омега-3-тяньши" available="true">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/бад/омега-3-тяньши</url>
+<price>2340</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://img3.creatium.ru/disk2/ac/7c/8b/d49f3b0af406ce5a9d6266b26db730c40c/1_banka_omega_3_tyanshi.webp</picture>
+<name>Омега-3 30%</name>
+<description>Формула Тяньши с 30% омега-3 дополнена облепиховым маслом, витамином E и природными антиоксидантами. Производитель заявляет поддержку нервной системы, памяти, внимания, стрессоустойчивости и обновления кожи.</description>
+</offer>
+<offer id="ионный-очиститель" available="true">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/приборы/ионный-очиститель</url>
+<price>17940</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://img1.creatium.ru/disk2/37/e8/bd/20962b91d8d85177a9a5637e841cd35597/3497945267083042820_jpg_template_2_shape_2_w_800_h_800_q_80_.webp</picture>
+<name>Очиститель продуктов TIENS</name>
+<description>Ионный очиститель продуктов Тяньши TQ-D41 обрабатывает продукты, воду и бытовые предметы с помощью электролиза водопроводной воды. Три режима и шесть настроек времени помогают подобрать цикл под конкретную задачу.</description>
+</offer>
+<offer id="для-посуды-тяньши" available="true">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/чистота/для-посуды-тяньши</url>
+<price>858</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://img3.creatium.ru/disk2/94/8d/4e/08f54808a151b0e7bab71e837e550a9070/1_butylka_dlya_posudy_tyanshi.webp</picture>
+<name>Средство для мытья посуды</name>
+<description>Средство для мытья посуды DiCHO — концентрат объемом 1 л для стекла, металла, пластмассы, керамики и хрусталя. Формула работает в горячей и холодной воде и рассчитана на разведение по степени загрязнения.</description>
+</offer>
+<offer id="кордикофе-тяньши" available="true">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/бад/кордикофе-тяньши</url>
+<price>1445</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://img3.creatium.ru/disk2/00/bb/8c/243be9c18554d4b170f54487c4ce553c5e/1_korobka_kordikofe_tyanshi.webp</picture>
+<name>Кордикофе TIENS</name>
+<description>Кордикофе Тяньши — мягкий растворимый кофейный напиток из арабики с кордицепсом и обезжиренным молоком. Двенадцать саше сохраняют аромат и помогают быстро приготовить чашку белого кофе для бодрого начала дня.</description>
+</offer>
+<offer id="кордицепс-тяньши" available="true">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/бад/кордицепс-тяньши</url>
+<price>2928</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://img3.creatium.ru/disk2/3b/9e/8e/bbb06c8245662008c7681cda00a8018198/1_banka_korditseps_tyanshi.webp</picture>
+<name>Кордицепс "Тяньши"</name>
+<description>Кордицепс Тяньши — капсулы с порошком ферментированного мицелия. Производитель связывает формулу с поддержкой энергии, работоспособности, восстановления после нагрузок и защитных функций организма.</description>
+</offer>
+<offer id="ежедневные-прокладки" available="true">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/красота/ежедневные-прокладки</url>
+<price>385</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://img3.creatium.ru/disk2/05/08/72/f2fada25fdecd99eb07404d6a45f58d61b/1_upakovka_ezhednevnykh_prokladok_ezhednevnye_prokladki.webp</picture>
+<name>Ежедневные прокладки</name>
+<description>Ежедневные прокладки Anion-Relax AiRiZ — тонкий формат для повседневного комфорта и ощущения свежести. Мягкая поверхность, воздухопроницаемая многослойная конструкция и индивидуальная упаковка подходят для активного дня.</description>
+</offer>
+<offer id="дневные-прокладки" available="true">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/красота/дневные-прокладки</url>
+<price>385</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://img3.creatium.ru/disk2/7b/4e/85/b51833d02ec9d59559739f137f26f302f4/1_upakovka_dnevnykh_prokladok_dnevnye_prokladki.webp</picture>
+<name>Дневные прокладки</name>
+<description>Дневные прокладки Anion-Relax AiRiZ созданы для надежной защиты и комфорта в течение дня. Ультратонкая многослойная конструкция повторяет контуры тела, а индивидуальная упаковка помогает сохранять изделия чистыми до использования.</description>
+</offer>
+<offer id="омега3" available="true">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/бад/омега3</url>
+<price>2670</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://img3.creatium.ru/disk2/fd/1b/99/88085aa30d4d3895d6e06b12b62c9f3a38/1_korobka_omega3.webp</picture>
+<name>Омега-3 90%</name>
+<description>Омега-3 Тяньши 90% — концентрат жирных кислот из жира северных рыб. Производитель заявляет поддержку липидного обмена, сердца и сосудов, клеточных мембран и противовоспалительного баланса организма.</description>
+</offer>
+<offer id="омега11" available="true">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/бад/омега11</url>
+<price>3034</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://img3.creatium.ru/disk2/9c/18/cb/91c7d817ab8422858e17f8cf0c26353de3/1_banka_omega11.webp</picture>
+<name>Omega-11 / Омега-3</name>
+<description>Омега-11 Тяньши — комплекс с цетолеиновой кислотой, Омега-3 и витаминами A, D3 и E. Производитель позиционирует формулу CET03 для поддержки сердца, мозга, зрения, суставов, кожи и иммунной системы.</description>
+</offer>
+<offer id="крем-тяньши" available="true">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/красота/крем-тяньши</url>
+<price>3612</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://img3.creatium.ru/disk2/54/a4/b4/43f3b5d837d33d03a35bc6a0e0a50c8891/1_banka_krema_krem_tyanshi.webp</picture>
+<name>Крем увлажняющий Celles Tiane</name>
+<description>Увлажняющий крем Тяньши CELLES TIANE завершает ежедневный уход, помогая сохранить мягкость, упругость и комфорт кожи. Формула содержит сквален, витамин E, ферментированный экстракт дрожжей, гиалуронат натрия и комплекс аминокислот.</description>
+</offer>
+<offer id="тиенс-лайф" available="true">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/приборы/тиенс-лайф</url>
+<price>7600</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://img3.creatium.ru/disk2/e6/55/2e/d43073458a129b6da1e1933ca16d31e45e/1_elektromassazher_tiens_laif.webp</picture>
+<name>Tiens-Life Тяньши</name>
+<description>Tiens-Life Тяньши — портативный электромассажный прибор, который сочетает зондирование акупунктурных точек и регулируемое микротоковое воздействие без прокалывания кожи. Перед применением необходимо изучить инструкцию и противопоказания.</description>
+</offer>
+<offer id="одеяло-тяньши" available="false">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/приборы/одеяло-тяньши</url>
+<price>25974</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://img1.creatium.ru/disk2/db/78/f4/7ae64f48569fae5c8705cbe7625a2c0add/2055178427083685889_jpg_template_2_shape_2_w_800_h_800_q_80_.webp</picture>
+<name>Одеяло "Анион"</name>
+<description>Летнее одеяло Тяньши «Анион» размером 200×230 см выполнено из хлопкового сатина и полиэфирного волокна. Легкая гладкая поверхность рассчитана на комфортный сон без чрезмерно тяжелого утепления.</description>
+</offer>
+<offer id="селен-тяньши" available="true">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/бад/селен-тяньши</url>
+<price>1700</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://img3.creatium.ru/disk2/60/96/c2/1d789ef86f9b918d97b0d11b6a80b4dd3c/1_banka_selen_tyanshi.webp</picture>
+<name>Капсулы с селеном</name>
+<description>Селен Тяньши — 60 капсул с селенизированным каппа-каррагинаном. Микроэлемент входит в состав селенопротеинов, а производитель связывает комплекс с антиоксидантной защитой, иммунитетом, щитовидной железой и репродуктивным здоровьем.</description>
+</offer>
+<offer id="чай-тяньши" available="true">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/бад/чай-тяньши</url>
+<price>1170</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://img3.creatium.ru/disk2/9a/14/de/5a5896f1ed927f321443eddbc9e16d7e2c/1_korobka_antilipidnogo_chaya_tiens.webp</picture>
+<name>Чай "Тяньши" антилипидный</name>
+<description>Растительный чай Тяньши сочетает зелёный чай, гиностемму, листья лотоса, горец многоцветковый и сенну. Производитель позиционирует антилипидную формулу для поддержки обмена веществ, контроля веса и очищения организма.</description>
+</offer>
+<offer id="глюкозамин-тяньши" available="true">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/бад/глюкозамин-тяньши</url>
+<price>1638</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://img3.creatium.ru/disk2/2b/88/d2/d82664729d3e6bd5db704b85f7434f457b/1_banka_glyukozamin_tyanshi.webp</picture>
+<name>Глюкозамин TIENS</name>
+<description>Глюкозамин Тяньши объединяет глюкозамин, хондроитин, кальций и коллаген для комплексной поддержки суставов и связок. Производитель связывает формулу с восстановлением хрящевой ткани, уменьшением болезненности и улучшением подвижности.</description>
+</offer>
+<offer id="целебные-капсулы" available="true">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/бад/целебные-капсулы</url>
+<price>2700</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://img3.creatium.ru/disk2/f7/24/ff/1a0782e160950c0d8d49a92e142b1a3d50/1_banka_tselebnye_kapsuly.webp</picture>
+<name>Целебные капсулы (Икан)</name>
+<description>Икан Тяньши — комплекс с гиностеммой, чайными полифенолами, морковью и витамином C. Производитель заявляет поддержку энергии, иммунитета, стрессоустойчивости, восстановления и общего тонуса.</description>
+</offer>
+<offer id="магний-тяньши" available="true">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/бад/магний-тяньши</url>
+<price>1280</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://img3.creatium.ru/disk2/fc/6b/f1/eb211c519ba267d0111f82f5a628c890b1/1_banka_magnii_tyanshi.webp</picture>
+<name>Магний B6</name>
+<description>Магний B6 Тяньши — растворимый порошок с 300 мг магния, витамином B6 и калием в одной порции. Производитель заявляет поддержку нервной системы, сердца и мышц при стрессе, утомлении и повышенных нагрузках.</description>
+</offer>
+<offer id="кальций-с-витаминами" available="true">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/бад/кальций-с-витаминами</url>
+<price>2584</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://img3.creatium.ru/disk2/26/d5/88/7dab62acc2d5c59f44d6a7090885fb9b66/1_korobka_kaltsii_s_vitaminami.webp</picture>
+<name>Кальций с витаминами</name>
+<description>Кальций с витаминами Тяньши — порошок с кальцием, тыквой, пищевыми волокнами и витаминами. Производитель заявляет высокое усвоение, поддержку костной ткани, аппетита, контроля веса и углеводного обмена.</description>
+</offer>
+<offer id="прополис-тяньши" available="true">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/бад/прополис-тяньши</url>
+<price>1488</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://img3.creatium.ru/disk2/e7/a7/7f/d520bb3e4b0822ba35e8ee870d0ba4cc55/1_korobka_propolis_tyanshi.webp</picture>
+<name>Прополис "Тяньши"</name>
+<description>Прополис Тяньши дополнен витамином C и репешком в удобной жевательной форме. Производитель позиционирует комплекс для ухода за полостью рта и носоглоткой, поддержки дёсен, сосудов и естественной защиты организма.</description>
+</offer>
+<offer id="хитозан-тяньши" available="true">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/бад/хитозан-тяньши</url>
+<price>2964</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://img3.creatium.ru/disk2/1f/5d/91/7d6cc10bbcf7487e6aeec2b84636d69852/1_banka_khitozan_tyanshi.webp</picture>
+<name>Хитозан "Тяньши"</name>
+<description>Хитозан Тяньши — источник нерастворимых пищевых волокон из панцирей ракообразных для дополнения ежедневного рациона. В каждой капсуле содержится 150 мг хитозана, в упаковке — 100 капсул. Практичный формат для тех, кто внимательно относится к составу питания.</description>
+</offer>
+<offer id="кровь-и-железо" available="true">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/бад/кровь-и-железо</url>
+<price>3021</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://img3.creatium.ru/disk2/db/65/9b/8d52ad530868a7e57efd15402ecfce82ee/1_banka_krov_i_zhelezo.webp</picture>
+<name>Кровь и Железо "Тяньши"</name>
+<description>Железо Тяньши в капсулах — продукт для дополнения рациона при повышенной потребности в этом микроэлементе. Производитель связывает комплекс с поддержкой уровня гемоглобина, энергетического обмена и общего тонуса.</description>
+</offer>
+<offer id="витамин-д" available="true">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/бад/витамин-д</url>
+<price>946</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://img3.creatium.ru/disk2/9f/c9/25/339826d76cdd7738e53a7917a0fafcb531/1_flakon_s_raspylitelem_vitamin_d.webp</picture>
+<name>Витамин Д 2000МЕ</name>
+<description>Витамин D3 Тяньши — масляный спрей с дозировкой 2000 МЕ в одном нажатии. Флакон содержит 200 доз, а MCT-масло служит основой для жирорастворимого витамина и дополняется лёгким лимонным вкусом.</description>
+</offer>
+<offer id="кальций-общий" available="true">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/бад/кальций-общий</url>
+<price>1500</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://img3.creatium.ru/disk2/25/9d/e9/4597941a6bc1f1565248a41655be9e45ef/1_korobka_kaltsiya_s_vysokim_soderzhaniem_tiens.webp</picture>
+<name>Кальций с высоким содержанием</name>
+<description>Кальций с высоким содержанием TIENS — растворимый ванильно-молочный напиток с ферментированным костным кальцием, витаминами A, C и D. В коробке 10 порционных саше, которые можно разводить водой или добавлять в готовые блюда.</description>
+</offer>
+<offer id="кальций-тяньши" available="true">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/бад/кальций-тяньши</url>
+<price>1014</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://img3.creatium.ru/disk2/a3/27/63/82b3e9a921a47ece6b8cad5157211713dc/1_banka_kaltsiya_tiens_v_kapsulakh.webp</picture>
+<name>Кальций "Тяньши" (для мозгового кровообращения)</name>
+<description>Кальций Тяньши — капсульный комплекс с ферментированным костным кальцием, лецитином, таурином, витаминами C, B1, B12 и фолиевой кислотой. Производитель разработал формулу для поддержки нервной системы, памяти и восстановления после нагрузок.</description>
+</offer>
+<offer id="пребиотик-тяньши" available="true">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/бад/пребиотик-тяньши</url>
+<price>3276</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://img3.creatium.ru/disk2/92/db/64/de1d1732f34295550b320c4b0896b6d128/1_korobka_prebiotik_tyanshi.webp</picture>
+<name>Пребиотик "Тяньши"</name>
+<description>Пребиотик Тяньши содержит инулин, галакто- и маннан-олигосахариды и ксилит — питание для полезной микрофлоры кишечника. Производитель заявляет поддержку пищеварения, регулярности, иммунитета и контроля массы тела.</description>
+</offer>
+<offer id="легкая-голова" available="true">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/приборы/легкая-голова</url>
+<price>16692</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://img3.creatium.ru/disk2/37/51/23/bd049daaa44455773c4bbe920111f6e1e9/1_elektricheskaya_rascheska_legkaya_golova.webp</picture>
+<name>Массажер "Легкая голова"</name>
+<description>Расческа «Легкая голова» Тяньши TQ-Z40 сочетает контактный массаж, вибрацию, микротоки, красный и синий свет, а также генерацию отрицательных ионов. Компактный прибор подходит для кожи головы и других доступных зон тела.</description>
+</offer>
+<offer id="жевательный-кальций" available="true">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/бад/жевательный-кальций</url>
+<price>2862</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://img3.creatium.ru/disk2/8c/37/4a/d662d7788a676d1429cd74021b05aadf7e/1_banka_zhevatelnyi_kaltsii.webp</picture>
+<name>Жевательный кальций</name>
+<description>Жевательный кальций Тяньши — 60 таблеток с какао, которые можно разжёвывать или рассасывать. Каждая таблетка содержит 250 мг кальция, а витамин D3 дополняет формулу поддержкой его усвоения.</description>
+</offer>
+<offer id="очиститель-воздуха" available="true">
+<url>https://xn----8sbalvbf1agi9b8d7b0b.xn--p1ai/приборы/очиститель-воздуха</url>
+<price>50310</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://img1.creatium.ru/disk2/49/ac/2d/5f19ea6ba4ee2e7bfccf6ff72bc1c6311f/2055254688522354688_png_template_2_shape_2_w_800_h_800_q_80_.webp</picture>
+<name>Очиститель воздуха TIENS</name>
+<description>Очиститель воздуха Тяньши «Био-Анион» сочетает генерацию отрицательных ионов и хлопковый фильтр из активированного угля. Производитель заявляет концентрацию не менее 10 млн анионов/см³ на расстоянии 30 см.</description>
 </offer>
 </offers></shop></yml_catalog>
